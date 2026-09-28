@@ -25,6 +25,7 @@ function cafetallinn_defaults() {
 		'instagram'           => '',
 		'map_embed'           => 'https://maps.google.com/maps?q=Cafe%20Tallinn%2C%20Rannarootsi%20keskus%2C%20Haapsalu&z=16&output=embed',
 		'map_link'            => 'https://www.google.com/maps/search/?api=1&query=Cafe+Tallinn+Rannarootsi+Haapsalu',
+		'map_autoload'        => true,
 		'hero_image_2'        => 0,
 		'tile_menu_image'     => 0,
 		'tile_drinks_image'   => 0,
@@ -71,6 +72,16 @@ function cafetallinn_sanitize_map_embed( $value ) {
 }
 
 /**
+ * Checkbox sanitizer.
+ *
+ * @param mixed $value Raw value.
+ * @return bool
+ */
+function cafetallinn_sanitize_checkbox( $value ) {
+	return (bool) $value;
+}
+
+/**
  * Register the panel.
  *
  * @param WP_Customize_Manager $wp_customize Manager.
@@ -110,6 +121,7 @@ function cafetallinn_customize_register( $wp_customize ) {
 		array( 'instagram', 'cafetallinn_social', __( 'Instagrami link', 'cafetallinn' ), 'url', 'esc_url_raw', '' ),
 		array( 'map_embed', 'cafetallinn_map', __( 'Kaardi manustamise URL', 'cafetallinn' ), 'url', 'cafetallinn_sanitize_map_embed', __( 'Google Maps → Jaga → Manusta kaart → kopeeri src="…" väärtus.', 'cafetallinn' ) ),
 		array( 'map_link', 'cafetallinn_map', __( 'Link "Ava kaardil"', 'cafetallinn' ), 'url', 'esc_url_raw', '' ),
+		array( 'map_autoload', 'cafetallinn_map', __( 'Laadi kaart kohe (ilma klõpsuta)', 'cafetallinn' ), 'checkbox', 'cafetallinn_sanitize_checkbox', __( 'Välja lülitades näidatakse enne nuppu "Näita kaarti" ja Google Maps laaditakse alles pärast klõpsu (privaatsussõbralikum, kiirem).', 'cafetallinn' ) ),
 	);
 
 	foreach ( $fields as $f ) {

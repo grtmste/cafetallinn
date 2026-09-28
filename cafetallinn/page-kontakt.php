@@ -61,14 +61,20 @@ while ( have_posts() ) :
 
 				<?php if ( $map ) : ?>
 					<div class="contact__map frame frame--brackets frame--brackets-alt">
-						<div class="map-facade" data-map-src="<?php echo esc_url( $map ); ?>" data-map-title="<?php esc_attr_e( 'Café Tallinn kaardil', 'cafetallinn' ); ?>">
-							<div class="map-facade__inner">
-								<?php echo cafetallinn_icon( 'pin' ); // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped -- static SVG. ?>
-								<p class="map-facade__title"><?php echo esc_html( $address ); ?></p>
-								<button type="button" class="button" data-map-load><?php esc_html_e( 'Näita kaarti', 'cafetallinn' ); ?></button>
-								<p class="map-facade__note"><?php esc_html_e( 'Kaart laaditakse Google Mapsist alles pärast klõpsu.', 'cafetallinn' ); ?></p>
+						<?php if ( cafetallinn_info( 'map_autoload' ) ) : ?>
+							<div class="map-facade map-facade--loaded">
+								<iframe src="<?php echo esc_url( $map ); ?>" title="<?php esc_attr_e( 'Café Tallinn kaardil', 'cafetallinn' ); ?>" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
 							</div>
-						</div>
+						<?php else : ?>
+							<div class="map-facade" data-map-src="<?php echo esc_url( $map ); ?>" data-map-title="<?php esc_attr_e( 'Café Tallinn kaardil', 'cafetallinn' ); ?>">
+								<div class="map-facade__inner">
+									<?php echo cafetallinn_icon( 'pin' ); // phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped -- static SVG. ?>
+									<p class="map-facade__title"><?php echo esc_html( $address ); ?></p>
+									<button type="button" class="button" data-map-load><?php esc_html_e( 'Näita kaarti', 'cafetallinn' ); ?></button>
+									<p class="map-facade__note"><?php esc_html_e( 'Kaart laaditakse Google Mapsist alles pärast klõpsu.', 'cafetallinn' ); ?></p>
+								</div>
+							</div>
+						<?php endif; ?>
 					</div>
 				<?php endif; ?>
 			</div>

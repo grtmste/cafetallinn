@@ -19,7 +19,7 @@ Custom classic theme for [cafetallinn.ee](https://cafetallinn.ee/). Installable 
 
 | What | Where |
 |---|---|
-| Address, phone, e-mail, opening hours, Facebook/Instagram, map | **Appearance → Customize → Kohviku info** |
+| Address, phone, e-mail, opening hours, Facebook/Instagram, map (and whether it loads immediately) | **Appearance → Customize → Kohviku info** |
 | Home page images (second hero photo, 4 tiles) | Customize → Kohviku info → Avalehe pildid. Main hero = featured image of page "Avaleht" |
 | "Meie lugu" text | Pages → Avaleht |
 | Page big heading (H1) and meta description | Page editor → box "Lehe pealkiri ja kirjeldus" |
@@ -56,7 +56,7 @@ The page shows whatever form shortcode is in the page content. On the live site 
 | Icons, ornaments, corner brackets | Drawn for this theme (inline SVG / CSS) | GPL-2.0-or-later with the theme |
 | Photos, logo | Café Tallinn's own material (existing site) | © Café Tallinn |
 
-No external CDNs; fonts are self-hosted. The Google map loads only after the visitor clicks "Näita kaarti".
+No external CDNs; fonts are self-hosted. The Google map on Kontakt loads immediately by default; untick **Customize → Kohviku info → Kaart → "Laadi kaart kohe"** to show a "Näita kaarti" button instead (Google is then contacted only after the click).
 
 ## Testing done
 
