@@ -1,0 +1,738 @@
+{
+  "_source": "WordPress WXR export bee4477f-WordPress.2026-09-28.xml (site not reachable from build environment)",
+  "site": {
+    "title": "",
+    "title_note": "<title> of the channel is empty in the export; blogname appears unset or was not exported. Brand name used in texts: \"Café Tallinn\".",
+    "tagline": "Sinu kohv! Sinu kohvik!",
+    "language": "et",
+    "url": "https://cafetallinn.ee"
+  },
+  "navigation": {
+    "Peamenüü": [
+      {
+        "order": 1,
+        "page_id": 2,
+        "title": "Avaleht",
+        "url": "https://cafetallinn.ee/"
+      },
+      {
+        "order": 2,
+        "page_id": 23,
+        "title": "Menüü",
+        "url": "https://cafetallinn.ee/menuu/"
+      },
+      {
+        "order": 4,
+        "page_id": 403,
+        "title": "Joogikaart",
+        "url": "https://cafetallinn.ee/joogikaart/"
+      },
+      {
+        "order": 5,
+        "page_id": 27,
+        "title": "Broneeri",
+        "url": "https://cafetallinn.ee/broneeri/"
+      },
+      {
+        "order": 6,
+        "page_id": 31,
+        "title": "Galerii",
+        "url": "https://cafetallinn.ee/galerii/"
+      },
+      {
+        "order": 7,
+        "page_id": 29,
+        "title": "Kontakt",
+        "url": "https://cafetallinn.ee/kontaktid/"
+      }
+    ],
+    "Jaluse menüü": [
+      {
+        "order": 1,
+        "page_id": 2,
+        "title": "Avaleht",
+        "url": "https://cafetallinn.ee/"
+      },
+      {
+        "order": 2,
+        "page_id": 23,
+        "title": "Menüü",
+        "url": "https://cafetallinn.ee/menuu/"
+      },
+      {
+        "order": 5,
+        "page_id": 27,
+        "title": "Broneeri",
+        "url": "https://cafetallinn.ee/broneeri/"
+      },
+      {
+        "order": 6,
+        "page_id": 29,
+        "title": "Kontakt",
+        "url": "https://cafetallinn.ee/kontaktid/"
+      },
+      {
+        "order": 7,
+        "page_id": 31,
+        "title": "Galerii",
+        "url": "https://cafetallinn.ee/galerii/"
+      },
+      {
+        "order": 8,
+        "page_id": 153,
+        "title": "KKK",
+        "url": "https://cafetallinn.ee/kkk/"
+      },
+      {
+        "order": 9,
+        "page_id": 165,
+        "title": "Perekaart",
+        "url": "https://cafetallinn.ee/perekaart/"
+      }
+    ]
+  },
+  "pages": [
+    {
+      "id": 2,
+      "title": "Avaleht",
+      "slug": "avaleht",
+      "url": "https://cafetallinn.ee/",
+      "status": "publish",
+      "in_main_nav": true,
+      "in_footer_nav": true,
+      "meta_title_template": "%%title%% %%page%%",
+      "meta_description": "Café Tallinn kohvik asub Haapsalu Rannarootsi keskuses, olles justkui peidetud pärl, mis ootab avastamist.",
+      "yoast_focus_keyword": "Kohvik Happsalus",
+      "featured_image_id": 128,
+      "render_source": "elementor",
+      "blocks": [
+        {
+          "type": "carousel",
+          "images": [
+            {
+              "attachment_id": 122,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6902.jpg"
+            },
+            {
+              "attachment_id": 128,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6945.jpg"
+            },
+            {
+              "attachment_id": 123,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6909.jpg"
+            },
+            {
+              "attachment_id": 124,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6914.jpg"
+            },
+            {
+              "attachment_id": 126,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6925.jpg"
+            },
+            {
+              "attachment_id": 125,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6916.jpg"
+            },
+            {
+              "attachment_id": 127,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6927.jpg"
+            },
+            {
+              "attachment_id": 121,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6854.jpg"
+            },
+            {
+              "attachment_id": 120,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6817.jpg"
+            },
+            {
+              "attachment_id": 119,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6790.jpg"
+            },
+            {
+              "attachment_id": 118,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6726.jpg"
+            },
+            {
+              "attachment_id": 117,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6687.jpg"
+            },
+            {
+              "attachment_id": 116,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6649.jpg"
+            },
+            {
+              "attachment_id": 115,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6615.jpg"
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "level": "h2",
+          "html": "Meie lugu",
+          "text": "Meie lugu"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "html": "<p>Café Tallinn kohvik asub Haapsalu Rannarootsi keskuses, olles justkui peidetud pärl, mis ootab avastamist. <br />Meie kohviku atmosfäär on täis hubasust, pehmeid toone ja mugavaid istekohti, mis kutsub sind hetkeks argipäeva unustama. <br />Café Tallinn kohvik on rohkem kui lihtsalt koht kohvi joomiseks – see on koht, kus saad jagada hetki sõpradega või leida rahu iseendale. <br />Meie sõbralik ja külalislahke personal on alati valmis sind tervitama naeratusega ning tagama, et sinu külastus jääks meelde kui eriline kogemus.<br />Oleme avatud selleks, et muuta iga päev eriliseks.<br />Tule ja avasta Café Tallinn kohvik – sinu kohv, sinu kohvik!</p>",
+          "text": "Café Tallinn kohvik asub Haapsalu Rannarootsi keskuses, olles justkui peidetud pärl, mis ootab avastamist. \nMeie kohviku atmosfäär on täis hubasust, pehmeid toone ja mugavaid istekohti, mis kutsub sind hetkeks argipäeva unustama. \nCafé Tallinn kohvik on rohkem kui lihtsalt koht kohvi joomiseks – see on koht, kus saad jagada hetki sõpradega või leida rahu iseendale. \nMeie sõbralik ja külalislahke personal on alati valmis sind tervitama naeratusega ning tagama, et sinu külastus jääks meelde kui eriline kogemus.\nOleme avatud selleks, et muuta iga päev eriliseks.\nTule ja avasta Café Tallinn kohvik – sinu kohv, sinu kohvik!"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "image",
+          "src": "https://cafetallinn.ee/wp-content/uploads/2024/02/11.png",
+          "attachment_id": 438,
+          "alt": "",
+          "link": "https://cafetallinn.ee/menuu/"
+        },
+        {
+          "type": "image",
+          "src": "https://cafetallinn.ee/wp-content/uploads/2024/02/21.png",
+          "attachment_id": 439,
+          "alt": "",
+          "link": "https://cafetallinn.ee/joogikaart/"
+        },
+        {
+          "type": "image",
+          "src": "https://cafetallinn.ee/wp-content/uploads/2024/02/31.png",
+          "attachment_id": 440,
+          "alt": "",
+          "link": "https://cafetallinn.ee/broneeri/"
+        },
+        {
+          "type": "image",
+          "src": "https://cafetallinn.ee/wp-content/uploads/2024/02/41.png",
+          "attachment_id": 441,
+          "alt": "",
+          "link": "https://cafetallinn.ee/catering/"
+        }
+      ],
+      "word_count": 96,
+      "note": "Front page (static). Heading tag from Elementor default (h2). Intro carousel of 14 photos, then \"Meie lugu\" text, then 4 image tiles linking to Menüü/Joogikaart/Broneeri/Catering (tile images likely contain text labels - not visible in export)."
+    },
+    {
+      "id": 3,
+      "title": "Privacy Policy",
+      "slug": "privacy-policy",
+      "url": "https://cafetallinn.ee/?page_id=3",
+      "status": "draft",
+      "in_main_nav": false,
+      "in_footer_nav": false,
+      "meta_title_template": null,
+      "meta_description": null,
+      "yoast_focus_keyword": null,
+      "featured_image_id": null,
+      "render_source": "post_content",
+      "blocks": [
+        {
+          "type": "raw_html",
+          "html": "<!-- wp:heading --><h2>Who we are</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=\"privacy-policy-tutorial\">Suggested text: </strong>Our website address is: https://cafetallinn.ee.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Comments</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=\"privacy-policy-tutorial\">Suggested text: </strong>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor&#8217;s IP address and browser user agent string to help spam detection.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Media</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=\"privacy-policy-tutorial\">Suggested text: </strong>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Cookies</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=\"privacy-policy-tutorial\">Suggested text: </strong>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &quot;Remember Me&quot;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Embedded content from other websites</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=\"privacy-policy-tutorial\">Suggested text: </strong>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Who we share your data with</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=\"privacy-policy-tutorial\">Suggested text: </strong>If you request a password reset, your IP address will be included in the reset email.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>How long we retain your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=\"privacy-policy-tutorial\">Suggested text: </strong>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p><!-- /wp:paragraph --><!-- wp:paragraph --><p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>What rights you have over your data</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=\"privacy-policy-tutorial\">Suggested text: </strong>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p><!-- /wp:paragraph --><!-- wp:heading --><h2>Where your data is sent</h2><!-- /wp:heading --><!-- wp:paragraph --><p><strong class=\"privacy-policy-tutorial\">Suggested text: </strong>Visitor comments may be checked through an automated spam detection service.</p><!-- /wp:paragraph -->"
+        }
+      ],
+      "note": "WordPress default privacy policy draft (English, never published).",
+      "word_count": 0
+    },
+    {
+      "id": 23,
+      "title": "Menüü",
+      "slug": "menuu",
+      "url": "https://cafetallinn.ee/menuu/",
+      "status": "publish",
+      "in_main_nav": true,
+      "in_footer_nav": true,
+      "meta_title_template": null,
+      "meta_description": null,
+      "yoast_focus_keyword": null,
+      "featured_image_id": null,
+      "render_source": "elementor",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "https://cafetallinn.ee/wp-content/uploads/2026/09/1_20260827_132945_0000.png",
+          "attachment_id": 755,
+          "alt": "",
+          "link": null
+        },
+        {
+          "type": "image",
+          "src": "https://cafetallinn.ee/wp-content/uploads/2026/09/2_20260827_132945_0001.png",
+          "attachment_id": 756,
+          "alt": "",
+          "link": null
+        },
+        {
+          "type": "image",
+          "src": "https://cafetallinn.ee/wp-content/uploads/2026/09/3_20260827_132945_0002.png",
+          "attachment_id": 757,
+          "alt": "",
+          "link": null
+        },
+        {
+          "type": "image",
+          "src": "https://cafetallinn.ee/wp-content/uploads/2026/09/4_20260827_132945_0003.png",
+          "attachment_id": 758,
+          "alt": "",
+          "link": null
+        },
+        {
+          "type": "image",
+          "src": "https://cafetallinn.ee/wp-content/uploads/2026/09/5_20260827_132945_0004.png",
+          "attachment_id": 759,
+          "alt": "",
+          "link": null
+        },
+        {
+          "type": "image",
+          "src": "https://cafetallinn.ee/wp-content/uploads/2026/09/6_20260827_132945_0005.png",
+          "attachment_id": 760,
+          "alt": "",
+          "link": null
+        },
+        {
+          "type": "image",
+          "src": "https://cafetallinn.ee/wp-content/uploads/2026/09/7_20260827_132945_0006.png",
+          "attachment_id": 761,
+          "alt": "",
+          "link": null
+        },
+        {
+          "type": "image",
+          "src": "https://cafetallinn.ee/wp-content/uploads/2026/09/8_20260827_132945_0007.png",
+          "attachment_id": 762,
+          "alt": "",
+          "link": null
+        },
+        {
+          "type": "image",
+          "src": "https://cafetallinn.ee/wp-content/uploads/2026/09/9_20260827_132945_0008.png",
+          "attachment_id": 763,
+          "alt": "",
+          "link": null
+        }
+      ],
+      "word_count": 0,
+      "note": "Live page renders ONLY 9 images (menu pages as PNG). No text menu exists in the export."
+    },
+    {
+      "id": 27,
+      "title": "Broneeri",
+      "slug": "broneeri",
+      "url": "https://cafetallinn.ee/broneeri/",
+      "status": "publish",
+      "in_main_nav": true,
+      "in_footer_nav": true,
+      "meta_title_template": null,
+      "meta_description": null,
+      "yoast_focus_keyword": null,
+      "featured_image_id": null,
+      "render_source": "elementor",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": "h1",
+          "html": "Broneeri oma eriline sündmus meie juures juba täna!",
+          "text": "Broneeri oma eriline sündmus meie juures juba täna!"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "shortcode",
+          "shortcode": "[contact-form-7 id=\"05e7e64\" title=\"Kontaktivorm 1\"]"
+        }
+      ],
+      "word_count": 8,
+      "note": "Contains CF7 shortcode for form \"Päringuvorm\" (id 256)."
+    },
+    {
+      "id": 29,
+      "title": "Kontakt",
+      "slug": "kontaktid",
+      "url": "https://cafetallinn.ee/kontaktid/",
+      "status": "publish",
+      "in_main_nav": true,
+      "in_footer_nav": true,
+      "meta_title_template": null,
+      "meta_description": null,
+      "yoast_focus_keyword": null,
+      "featured_image_id": null,
+      "render_source": "elementor",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": "h2",
+          "html": "Võta meiega ühendust!",
+          "text": "Võta meiega ühendust!"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "list",
+          "items": [
+            "+372 56630243",
+            "info@cafetallinn.ee"
+          ]
+        },
+        {
+          "type": "shortcode",
+          "shortcode": "[contact-form-7 id=\"627a550\" title=\"Kontakt\"]"
+        }
+      ],
+      "word_count": 6,
+      "note": "Contains CF7 contact form \"Kontakt\" (id 478). New theme spec says: no contact form on Kontakt."
+    },
+    {
+      "id": 31,
+      "title": "Galerii",
+      "slug": "galerii",
+      "url": "https://cafetallinn.ee/galerii/",
+      "status": "publish",
+      "in_main_nav": true,
+      "in_footer_nav": true,
+      "meta_title_template": null,
+      "meta_description": null,
+      "yoast_focus_keyword": null,
+      "featured_image_id": null,
+      "render_source": "elementor",
+      "blocks": [
+        {
+          "type": "gallery",
+          "images": [
+            {
+              "attachment_id": 126,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6925.jpg"
+            },
+            {
+              "attachment_id": 125,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6916.jpg"
+            },
+            {
+              "attachment_id": 124,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6914.jpg"
+            },
+            {
+              "attachment_id": 123,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6909.jpg"
+            },
+            {
+              "attachment_id": 128,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6945.jpg"
+            },
+            {
+              "attachment_id": 127,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6927.jpg"
+            },
+            {
+              "attachment_id": 122,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6902.jpg"
+            },
+            {
+              "attachment_id": 121,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6854.jpg"
+            },
+            {
+              "attachment_id": 120,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6817.jpg"
+            },
+            {
+              "attachment_id": 119,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6790.jpg"
+            },
+            {
+              "attachment_id": 118,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6726.jpg"
+            },
+            {
+              "attachment_id": 117,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6687.jpg"
+            },
+            {
+              "attachment_id": 116,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6649.jpg"
+            },
+            {
+              "attachment_id": 114,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6611.jpg"
+            },
+            {
+              "attachment_id": 115,
+              "src": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6615.jpg"
+            }
+          ]
+        }
+      ],
+      "word_count": 0
+    },
+    {
+      "id": 153,
+      "title": "KKK",
+      "slug": "kkk",
+      "url": "https://cafetallinn.ee/kkk/",
+      "status": "publish",
+      "in_main_nav": false,
+      "in_footer_nav": true,
+      "meta_title_template": null,
+      "meta_description": null,
+      "yoast_focus_keyword": null,
+      "featured_image_id": null,
+      "render_source": "elementor",
+      "blocks": [
+        {
+          "type": "shortcode",
+          "shortcode": "[helpie_faq group_id='7'/]"
+        }
+      ],
+      "word_count": 0,
+      "note": "Only in footer menu. Renders Helpie FAQ plugin group 7 (see faq[] below)."
+    },
+    {
+      "id": 165,
+      "title": "Perekaart",
+      "slug": "perekaart",
+      "url": "https://cafetallinn.ee/perekaart/",
+      "status": "publish",
+      "in_main_nav": false,
+      "in_footer_nav": true,
+      "meta_title_template": null,
+      "meta_description": null,
+      "yoast_focus_keyword": null,
+      "featured_image_id": null,
+      "render_source": "elementor",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": "h2",
+          "html": "Perekaart- unistustest võimalusteni",
+          "text": "Perekaart- unistustest võimalusteni"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": "h1",
+          "html": "Meie kohvikus saab perekaardiga* -10% soodustust kogu menüült.",
+          "text": "Meie kohvikus saab perekaardiga* -10% soodustust kogu menüült."
+        },
+        {
+          "type": "paragraph",
+          "html": "<p>*Perekaart on sooduskaart, mis on loodud Eesti lasterikastele peredele, kus on kasvamas kolm või enam last. Perekaardi kasutajana on võimalik luua lisaväärtust oma perele - külastada soodsamalt muuseume, teatreid ja teemaparke ning teha taskukohaseid sisseoste. Perekaardi programmiga on liitunud üle 500 Eesti ettevõtte</p>",
+          "text": "*Perekaart on sooduskaart, mis on loodud Eesti lasterikastele peredele, kus on kasvamas kolm või enam last. Perekaardi kasutajana on võimalik luua lisaväärtust oma perele - külastada soodsamalt muuseume, teatreid ja teemaparke ning teha taskukohaseid sisseoste. Perekaardi programmiga on liitunud üle 500 Eesti ettevõtte"
+        },
+        {
+          "type": "button",
+          "text": "Rohkem infot perekaardi kohta",
+          "href": "https://perekaart.ee/"
+        }
+      ],
+      "word_count": 62,
+      "note": "Only in footer menu. Elementor heading #2 renders as h1 on live site."
+    },
+    {
+      "id": 274,
+      "title": "Helpie FAQ - Group Sample",
+      "slug": "helpie_faq_page",
+      "url": "https://cafetallinn.ee/helpie_faq_page/",
+      "status": "publish",
+      "in_main_nav": false,
+      "in_footer_nav": false,
+      "meta_title_template": null,
+      "meta_description": null,
+      "yoast_focus_keyword": null,
+      "featured_image_id": null,
+      "render_source": "post_content",
+      "blocks": [
+        {
+          "type": "shortcode",
+          "shortcode": "[helpie_notices group_id='6'/]"
+        },
+        {
+          "type": "shortcode",
+          "shortcode": "[helpie_faq group_id='6'/]"
+        }
+      ],
+      "note": "Helpie FAQ plugin sample page (auto-created by plugin).",
+      "word_count": 0
+    },
+    {
+      "id": 403,
+      "title": "Joogikaart",
+      "slug": "joogikaart",
+      "url": "https://cafetallinn.ee/joogikaart/",
+      "status": "publish",
+      "in_main_nav": true,
+      "in_footer_nav": false,
+      "meta_title_template": null,
+      "meta_description": null,
+      "yoast_focus_keyword": null,
+      "featured_image_id": null,
+      "render_source": "post_content",
+      "blocks": [
+        {
+          "type": "image",
+          "src": "https://cafetallinn.ee/wp-content/uploads/2026/06/Messenger_creation_F7729D92-5EE9-4EE0-BBA1-2975E47B21EA.jpeg"
+        },
+        {
+          "type": "image",
+          "src": "https://cafetallinn.ee/wp-content/uploads/2026/06/2-e1781044862501.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://cafetallinn.ee/wp-content/uploads/2026/06/kokteilid-ja-alko-ct-Copy-page-001-e1781044957660.jpg"
+        },
+        {
+          "type": "image",
+          "src": "https://cafetallinn.ee/wp-content/uploads/2026/06/kokteilid-ja-alko-ct-Copy-page-002-e1781045001380.jpg"
+        }
+      ],
+      "unpublished_elementor_blocks": [
+        {
+          "type": "heading",
+          "level": "h2",
+          "html": "Cafe Tallinn Joogid/<i>Drinks</i>",
+          "text": "Cafe Tallinn Joogid/Drinks"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "heading",
+          "level": "h3",
+          "html": "Kuumad joogid/<i>Hot drinks</i>",
+          "text": "Kuumad joogid/Hot drinks"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "paragraph",
+          "html": "<p>Kohv väike/suur/Coffee small/large 2.30€/2.80€<br />Cappuccino 3.00€<br />Caffe Latte 3.00€<br />Tee/<i>Tea</i> 2.00€<br />Tee kannuga/<i>Tea with a jug</i> 3.50€<br />Kakao/piparmündikakao/<i>Cocoa/mint cocoa</i> 2.50/3.00€<br />Espresso väike/suur/Espresso small/large 2.00/2.50€<br />Espresso macchiato 2.50€<br />Pumpkin Spice latte 4.00€<br />Šokolaadijook karamelliga 4.00€<br />Mochaccino 3.80€<br />Americano 2.00€<br />Flat White 3.50€<br />Iiri kohv/<i>Irish coffee </i>6.50€<br />Kohv Vana Tallinnaga/<i>Coffee with Old Tallinn</i> 6.50€<br />Caffe Latte topelt espressoga/<i>Caffe Latte with double espresso</i> 3.50€</p>",
+          "text": "Kohv väike/suur/Coffee small/large 2.30€/2.80€\nCappuccino 3.00€\nCaffe Latte 3.00€\nTee/Tea 2.00€\nTee kannuga/Tea with a jug 3.50€\nKakao/piparmündikakao/Cocoa/mint cocoa 2.50/3.00€\nEspresso väike/suur/Espresso small/large 2.00/2.50€\nEspresso macchiato 2.50€\nPumpkin Spice latte 4.00€\nŠokolaadijook karamelliga 4.00€\nMochaccino 3.80€\nAmericano 2.00€\nFlat White 3.50€\nIiri kohv/Irish coffee 6.50€\nKohv Vana Tallinnaga/Coffee with Old Tallinn 6.50€\nCaffe Latte topelt espressoga/Caffe Latte with double espresso 3.50€"
+        },
+        {
+          "type": "heading",
+          "level": "h3",
+          "html": "Külmad joogid/<i>Cold Drinks</i>",
+          "text": "Külmad joogid/Cold Drinks"
+        },
+        {
+          "type": "paragraph",
+          "html": "<p>Mahl/<i>Juice </i>(0,2/04 l) 2.00€/ 3.50€<br>Piim/Keefir/<i>Milk/kefir</i> (0,2/0,4 l) 1.50€/2.00€<br>Aura vesi/<i>Aura water</i> 2.00€<br>Coca-cola (0.5 l) 2.50€<br>Coca-cola zero (0,5 l) 2.50€<br>Fanta, Sprite (0,5 l) 2 . 5 0 €<br>Fuze tea 3.00€<br>Kali 2.50€<br>Limonaad/<i>Lemonade</i> 2.00€<br>Rose limonaad/<i>Rose lemonade</i> 1,50€<br>Kõrrejook/<i>Sraw drink</i> 1.50€<br>Maitsevesi/<i>Flavored water</i> (1l) 2.00€<br>Jäätisekokteil/<i>Ice cream cocktail </i>3.50€<br>Jääkohv karamelliga/kondenspiimaga/<i>Iced coffee with caramel/with condensed milk </i>4.20€</p>",
+          "text": "Mahl/Juice (0,2/04 l) 2.00€/ 3.50€\nPiim/Keefir/Milk/kefir (0,2/0,4 l) 1.50€/2.00€\nAura vesi/Aura water 2.00€\nCoca-cola (0.5 l) 2.50€\nCoca-cola zero (0,5 l) 2.50€\nFanta, Sprite (0,5 l) 2 . 5 0 €\nFuze tea 3.00€\nKali 2.50€\nLimonaad/Lemonade 2.00€\nRose limonaad/Rose lemonade 1,50€\nKõrrejook/Sraw drink 1.50€\nMaitsevesi/Flavored water (1l) 2.00€\nJäätisekokteil/Ice cream cocktail 3.50€\nJääkohv karamelliga/kondenspiimaga/Iced coffee with caramel/with condensed milk 4.20€"
+        }
+      ],
+      "word_count": 0,
+      "note": "Page has no _elementor_edit_mode, so the LIVE page renders post_content = 4 images (drink list + cocktails/alcohol). The Elementor text drink list (included here as \"unpublished_elementor_blocks\") is NOT shown on the live site and may be outdated."
+    },
+    {
+      "id": 594,
+      "title": "Catering",
+      "slug": "catering",
+      "url": "https://cafetallinn.ee/catering/",
+      "status": "publish",
+      "in_main_nav": false,
+      "in_footer_nav": false,
+      "meta_title_template": null,
+      "meta_description": null,
+      "yoast_focus_keyword": null,
+      "featured_image_id": null,
+      "render_source": "elementor",
+      "blocks": [
+        {
+          "type": "heading",
+          "level": "h2",
+          "html": "Telli enda erilisteks üritusteks soojad toidud, salatid ja suupisted meie juurest!",
+          "text": "Telli enda erilisteks üritusteks soojad toidud, salatid ja suupisted meie juurest!"
+        },
+        {
+          "type": "divider"
+        },
+        {
+          "type": "shortcode",
+          "shortcode": "[contact-form-7 id=\"5d1b4d2\" title=\"Catering\"]"
+        }
+      ],
+      "word_count": 11,
+      "note": "Not in main nav; linked from a front-page image tile. Contains CF7 form \"Catering\" (id 596)."
+    }
+  ],
+  "faq": {
+    "group": "KKK- Korduma Kippuvad Küsimused",
+    "items": [
+      {
+        "id": 278,
+        "question": "Mis kell suletakse köök?",
+        "answer_html": "Köök läheb kinni 15 minutit enne kohviku sulgemist.",
+        "answer_text": "Köök läheb kinni 15 minutit enne kohviku sulgemist."
+      },
+      {
+        "id": 279,
+        "question": "Kas ma tohin oma lemmiklooma kohvikusse kaasa võtta?",
+        "answer_html": "Jah, hästi käituvad lemmikloomad on oodatud.",
+        "answer_text": "Jah, hästi käituvad lemmikloomad on oodatud."
+      },
+      {
+        "id": 280,
+        "question": "Kas kohvikus pakutakse taimetoitu?",
+        "answer_html": "Jah, meie menüüs on mõned road ka taimetoitlastele.",
+        "answer_text": "Jah, meie menüüs on mõned road ka taimetoitlastele."
+      },
+      {
+        "id": 281,
+        "question": "Kuidas ma saan lauda reserveerida?",
+        "answer_html": "Reserveerimiseks saad helistada meie numbrile <a href=\"tel:+3724729021\">+372 472 9021, </a>kirjutada meile facebooki sõnumitesse <a href=\"http://www.facebook.com/cafetallinn\">www.facebook.com/cafetallinn</a> või broneerida läbi kodulehe.",
+        "answer_text": "Reserveerimiseks saad helistada meie numbrile +372 472 9021, kirjutada meile facebooki sõnumitesse www.facebook.com/cafetallinn või broneerida läbi kodulehe."
+      },
+      {
+        "id": 282,
+        "question": "Kas kohvi on võimalik osta taimse piimaga?",
+        "answer_html": "Jah, meilt saab kohvi nii kaerapiima kui ka mandlipiimaga.",
+        "answer_text": "Jah, meilt saab kohvi nii kaerapiima kui ka mandlipiimaga."
+      },
+      {
+        "id": 283,
+        "question": "Kas toitu on võimalik kaasa osta?",
+        "answer_html": "Jah, meie juurest on võimalik toitu kaasa osta ning oma karbiga tulles, saab soodustust -10%.",
+        "answer_text": "Jah, meie juurest on võimalik toitu kaasa osta ning oma karbiga tulles, saab soodustust -10%."
+      },
+      {
+        "id": 284,
+        "question": "Kas kohvikus kehtib ka Perekaart?",
+        "answer_html": "Meie kohvikus saab perekaardiga* -10% soodustust kogu menüült.\n*Perekaart on sooduskaart, mis on loodud Eesti lasterikastele peredele, kus on kasvamas kolm või enam last.",
+        "answer_text": "Meie kohvikus saab perekaardiga* -10% soodustust kogu menüült.\n*Perekaart on sooduskaart, mis on loodud Eesti lasterikastele peredele, kus on kasvamas kolm või enam last."
+      }
+    ]
+  },
+  "cf7_forms": [
+    {
+      "id": 256,
+      "title": "Päringuvorm",
+      "form": "<label> Teema (Kohustuslik)\n    [text* your-subject] </label>\n\n<label> Ees- ja perekonnanimi/ettevõtte nimi (Kohustuslik)\n    [text* your-name autocomplete:nimi] </label>\n\n<label> E-posti aadress (Kohustuslik)\n    [email* your-email autocomplete:epost] </label>\n\n<label>Telefon (Kohustuslik)\n    [tel* telefoninumber] </label>\n\n<label>Sündmuse kuupäev (Kohustuslik)\n    [date* Broneeringuaeg]\n\n<label>Sündmuse tüüp (Kohustuslik)\n    [select* Sndmus \"Sünnipäev\" \"Pidulik lõunasöök/õhtusöök\" \"Personaalne pakkumine\"]\n\n<label>Sündmuse asukoht (Kohustuslik)\n    [select* Sndmuseasukoht \"Kohapeal\" \"Soovin cateringi teenust\"]\n\n<label>Inimeste arv (Kohustuslik)\n    [text* Inimestearv]\n\n\n[submit \"Saada\"]"
+    },
+    {
+      "id": 478,
+      "title": "Kontakt",
+      "form": "<label> Teema (Kohustuslik)\n    [text* your-subject] </label>\n\n<label> Ees-ja perekonnanimi (Kohustuslik)\n    [text* your-name autocomplete:name] </label>\n\n<label> E-post (Kohustuslik)\n    [email* your-email autocomplete:email] </label>\n\n<label> Sõnum (valikuline)\n    [textarea your-message] </label>\n\n[submit \"Saada\"]"
+    },
+    {
+      "id": 596,
+      "title": "Catering",
+      "form": "<label> Teema (Kohustuslik)\n    [text* your-subject] </label>\n\n<label> Ees- ja perekonnanimi/ettevõtte nimi (Kohustuslik)\n    [text* your-name autocomplete:nimi] </label>\n\n<label> E-posti aadress (Kohustuslik)\n    [email* your-email autocomplete:epost] </label>\n\n<label>Telefon (Kohustuslik)\n    [tel* telefoninumber] </label>\n\n<label>Sündmuse kuupäev (Kohustuslik)\n    [date* Broneeringuaeg]\n\n<label>Sündmuse tüüp (Kohustuslik)\n    [select* Sndmus \"Sünnipäev\" \"Pidulik lõunasöök/õhtusöök\" \"Personaalne pakkumine\"]\n\n<label>Inimeste arv (Kohustuslik)\n    [text* Inimestearv]\n\n\n[submit \"Saada\"]"
+    }
+  ],
+  "not_in_export": [
+    "Header/footer content (Astra theme mods, widgets)",
+    "Global Yoast title template/separator",
+    "Opening hours",
+    "Street address",
+    "Social links other than facebook.com/cafetallinn",
+    "Map embed"
+  ]
+}

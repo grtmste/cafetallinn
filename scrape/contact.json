@@ -1,0 +1,29 @@
+{
+  "_source": "Collected from page texts in the WXR export",
+  "name": "Café Tallinn",
+  "address": {
+    "value": null,
+    "known_fragment": "Haapsalu Rannarootsi keskuses",
+    "source": "Avaleht \"Meie lugu\" text"
+  },
+  "phones": [
+    {
+      "value": "+372 56630243",
+      "source": "Kontakt page icon list"
+    },
+    {
+      "value": "+372 472 9021",
+      "href": "tel:+3724729021",
+      "source": "FAQ \"Kuidas ma saan lauda reserveerida?\""
+    }
+  ],
+  "email": "info@cafetallinn.ee",
+  "opening_hours": null,
+  "opening_hours_related_text": "Köök läheb kinni 15 minutit enne kohviku sulgemist. (FAQ)",
+  "social": {
+    "facebook": "http://www.facebook.com/cafetallinn",
+    "instagram": null
+  },
+  "map": null,
+  "needs_review": true
+}

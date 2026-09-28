@@ -1,0 +1,1200 @@
+{
+  "_note": "Binary files are NOT included in a WXR export and cafetallinn.ee is blocked from the build environment; nothing downloaded yet.",
+  "images": [
+    {
+      "attachment_id": 10,
+      "filename": "mt-sample-background.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/mt-sample-background.jpg",
+      "width": 1920,
+      "height": 1280,
+      "title": "mt-sample-background",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 11,
+      "filename": "fresh-coffee-steams-wooden-table-close-up-generative-ai-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/fresh-coffee-steams-wooden-table-close-up-generative-ai-scaled.jpg",
+      "width": 2560,
+      "height": 1477,
+      "title": "Cafe Tallinn",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 16,
+      "filename": "305937859_502083528587132_3184160036415149844_n.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/305937859_502083528587132_3184160036415149844_n.jpg",
+      "width": 1069,
+      "height": 1065,
+      "title": "305937859_502083528587132_3184160036415149844_n",
+      "alt": "",
+      "attached_to": null,
+      "role": [
+        "logo original upload (same source file)"
+      ],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 17,
+      "filename": "59198809-d0da-4aec-9a38-e2a0a9230b91.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/59198809-d0da-4aec-9a38-e2a0a9230b91.png",
+      "width": 1069,
+      "height": 1065,
+      "title": "59198809-d0da-4aec-9a38-e2a0a9230b91",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 18,
+      "filename": "cropped-305937859_502083528587132_3184160036415149844_n.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/cropped-305937859_502083528587132_3184160036415149844_n.jpg",
+      "width": 512,
+      "height": 512,
+      "title": "cropped-305937859_502083528587132_3184160036415149844_n.jpg",
+      "alt": "",
+      "attached_to": null,
+      "role": [
+        "FAVICON / site icon (512x512 crop)"
+      ],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 19,
+      "filename": "cropped-cropped-305937859_502083528587132_3184160036415149844_n.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/cropped-cropped-305937859_502083528587132_3184160036415149844_n.jpg",
+      "width": 512,
+      "height": 512,
+      "title": "cropped-cropped-305937859_502083528587132_3184160036415149844_n.jpg",
+      "alt": "",
+      "attached_to": null,
+      "role": [
+        "LOGO (custom-logo, 512x512 crop)"
+      ],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 114,
+      "filename": "ANF_6611.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6611.jpg",
+      "width": 1900,
+      "height": 1267,
+      "title": "ANF_6611",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [
+        "Galerii (gallery)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 115,
+      "filename": "ANF_6615.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6615.jpg",
+      "width": 1900,
+      "height": 1268,
+      "title": "ANF_6615",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [
+        "Avaleht (carousel)",
+        "Galerii (gallery)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 116,
+      "filename": "ANF_6649.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6649.jpg",
+      "width": 1900,
+      "height": 1268,
+      "title": "ANF_6649",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [
+        "Avaleht (carousel)",
+        "Galerii (gallery)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 117,
+      "filename": "ANF_6687.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6687.jpg",
+      "width": 1900,
+      "height": 1268,
+      "title": "ANF_6687",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [
+        "Avaleht (carousel)",
+        "Galerii (gallery)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 118,
+      "filename": "ANF_6726.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6726.jpg",
+      "width": 1900,
+      "height": 1268,
+      "title": "ANF_6726",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [
+        "Avaleht (carousel)",
+        "Galerii (gallery)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 119,
+      "filename": "ANF_6790.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6790.jpg",
+      "width": 1900,
+      "height": 1268,
+      "title": "ANF_6790",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [
+        "Avaleht (carousel)",
+        "Galerii (gallery)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 120,
+      "filename": "ANF_6817.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6817.jpg",
+      "width": 1900,
+      "height": 1268,
+      "title": "ANF_6817",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [
+        "Avaleht (carousel)",
+        "Galerii (gallery)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 121,
+      "filename": "ANF_6854.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6854.jpg",
+      "width": 1900,
+      "height": 1268,
+      "title": "ANF_6854",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [
+        "Avaleht (carousel)",
+        "Galerii (gallery)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 122,
+      "filename": "ANF_6902.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6902.jpg",
+      "width": 2000,
+      "height": 1335,
+      "title": "ANF_6902",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [
+        "Avaleht (carousel)",
+        "Galerii (gallery)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 123,
+      "filename": "ANF_6909.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6909.jpg",
+      "width": 2000,
+      "height": 1335,
+      "title": "ANF_6909",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [
+        "Avaleht (carousel)",
+        "Galerii (gallery)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 124,
+      "filename": "ANF_6914.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6914.jpg",
+      "width": 2000,
+      "height": 1335,
+      "title": "ANF_6914",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [
+        "Avaleht (carousel)",
+        "Galerii (gallery)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 125,
+      "filename": "ANF_6916.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6916.jpg",
+      "width": 2000,
+      "height": 1335,
+      "title": "ANF_6916",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [
+        "Avaleht (carousel)",
+        "Galerii (gallery)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 126,
+      "filename": "ANF_6925.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6925.jpg",
+      "width": 2000,
+      "height": 1335,
+      "title": "ANF_6925",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [
+        "Avaleht (carousel)",
+        "Galerii (gallery)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 127,
+      "filename": "ANF_6927.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6927.jpg",
+      "width": 2000,
+      "height": 1335,
+      "title": "ANF_6927",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [
+        "Avaleht (carousel)",
+        "Galerii (gallery)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 128,
+      "filename": "ANF_6945.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/ANF_6945.jpg",
+      "width": 2000,
+      "height": 1125,
+      "title": "ANF_6945",
+      "alt": "",
+      "attached_to": null,
+      "role": [
+        "Avaleht featured image"
+      ],
+      "used_on": [
+        "Avaleht (carousel)",
+        "Galerii (gallery)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 198,
+      "filename": "Oige_menuu_page-00011-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/Oige_menuu_page-00011-scaled.jpg",
+      "width": 1978,
+      "height": 2560,
+      "title": "Joogikaart EST",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 207,
+      "filename": "Oige_menuu_page-00131-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/Oige_menuu_page-00131-scaled.jpg",
+      "width": 1978,
+      "height": 2560,
+      "title": "Õige_menüü_page-0013[1]",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 208,
+      "filename": "Oige_menuu_page-00021-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/Oige_menuu_page-00021-scaled.jpg",
+      "width": 1978,
+      "height": 2560,
+      "title": "Joogikaart ENG",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 209,
+      "filename": "Oige_menuu_page-00031-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/Oige_menuu_page-00031-scaled.jpg",
+      "width": 1978,
+      "height": 2560,
+      "title": "Õige_menüü_page-0003[1]",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 213,
+      "filename": "Oige_menuu_page-00141-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/Oige_menuu_page-00141-scaled.jpg",
+      "width": 1978,
+      "height": 2560,
+      "title": "Õige_menüü_page-0014[1]",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 215,
+      "filename": "Oige_menuu_page-00132-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/Oige_menuu_page-00132-scaled.jpg",
+      "width": 1978,
+      "height": 2560,
+      "title": "Õige_menüü_page-0013[2]",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 216,
+      "filename": "Oige_menuu_page-00121-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/Oige_menuu_page-00121-scaled.jpg",
+      "width": 1978,
+      "height": 2560,
+      "title": "Õige_menüü_page-0012[1]",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 217,
+      "filename": "Oige_menuu_page-00111-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/Oige_menuu_page-00111-scaled.jpg",
+      "width": 1978,
+      "height": 2560,
+      "title": "Õige_menüü_page-0011[1]",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 218,
+      "filename": "Oige_menuu_page-00101-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/Oige_menuu_page-00101-scaled.jpg",
+      "width": 1978,
+      "height": 2560,
+      "title": "Õige_menüü_page-0010[1]",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 219,
+      "filename": "Oige_menuu_page-00101-1-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/Oige_menuu_page-00101-1-scaled.jpg",
+      "width": 1978,
+      "height": 2560,
+      "title": "Õige_menüü_page-0010[1]",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 220,
+      "filename": "Oige_menuu_page-00091-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/Oige_menuu_page-00091-scaled.jpg",
+      "width": 1978,
+      "height": 2560,
+      "title": "Õige_menüü_page-0009[1]",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 221,
+      "filename": "Oige_menuu_page-00081-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/Oige_menuu_page-00081-scaled.jpg",
+      "width": 1978,
+      "height": 2560,
+      "title": "Õige_menüü_page-0008[1]",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 222,
+      "filename": "Oige_menuu_page-00081-1-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/Oige_menuu_page-00081-1-scaled.jpg",
+      "width": 1978,
+      "height": 2560,
+      "title": "Õige_menüü_page-0008[1]",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 223,
+      "filename": "Oige_menuu_page-00071-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/Oige_menuu_page-00071-scaled.jpg",
+      "width": 1978,
+      "height": 2560,
+      "title": "Õige_menüü_page-0007[1]",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 224,
+      "filename": "Oige_menuu_page-00061-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/Oige_menuu_page-00061-scaled.jpg",
+      "width": 1978,
+      "height": 2560,
+      "title": "Õige_menüü_page-0006[1]",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 225,
+      "filename": "Oige_menuu_page-00051-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/Oige_menuu_page-00051-scaled.jpg",
+      "width": 1978,
+      "height": 2560,
+      "title": "Õige_menüü_page-0005[1]",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 226,
+      "filename": "Oige_menuu_page-00051-1-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/Oige_menuu_page-00051-1-scaled.jpg",
+      "width": 1978,
+      "height": 2560,
+      "title": "Õige_menüü_page-0005[1]",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 227,
+      "filename": "Oige_menuu_page-00041-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/Oige_menuu_page-00041-scaled.jpg",
+      "width": 1978,
+      "height": 2560,
+      "title": "Õige_menüü_page-0004[1]",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 438,
+      "filename": "11.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/02/11.png",
+      "width": 1181,
+      "height": 1181,
+      "title": "Menüü",
+      "alt": "",
+      "attached_to": "Avaleht",
+      "role": [],
+      "used_on": [
+        "Avaleht (image)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 42,
+      "filename": "close-up-barista-making-cappuccino-bartender-preparing-coffee-drink-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/close-up-barista-making-cappuccino-bartender-preparing-coffee-drink-scaled.jpg",
+      "width": 2560,
+      "height": 1709,
+      "title": "Close up Barista making cappuccino, bartender preparing coffee d",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 43,
+      "filename": "close-up-barista-making-cappuccino-bartender-preparing-coffee-drink-1-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/close-up-barista-making-cappuccino-bartender-preparing-coffee-drink-1-scaled.jpg",
+      "width": 2560,
+      "height": 1709,
+      "title": "Close up Barista making cappuccino, bartender preparing coffee d",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 44,
+      "filename": "selective-focus-shot-bucket-with-forks-napkins-trendy-cafe-table-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/selective-focus-shot-bucket-with-forks-napkins-trendy-cafe-table-scaled.jpg",
+      "width": 2560,
+      "height": 1707,
+      "title": "Selective focus shot of a bucket with forks and napkins on a trendy cafe table",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 45,
+      "filename": "restaurant-open-space-new-concept-scaled.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/restaurant-open-space-new-concept-scaled.jpg",
+      "width": 2560,
+      "height": 2048,
+      "title": "restaurant open space new concept",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 439,
+      "filename": "21.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/02/21.png",
+      "width": 1181,
+      "height": 1181,
+      "title": "Joogikaart",
+      "alt": "",
+      "attached_to": "Avaleht",
+      "role": [],
+      "used_on": [
+        "Avaleht (image)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 440,
+      "filename": "31.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/02/31.png",
+      "width": 1181,
+      "height": 1181,
+      "title": "3[1]",
+      "alt": "",
+      "attached_to": "Avaleht",
+      "role": [],
+      "used_on": [
+        "Avaleht (image)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 441,
+      "filename": "41.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/02/41.png",
+      "width": 1181,
+      "height": 1181,
+      "title": "Catering",
+      "alt": "",
+      "attached_to": "Avaleht",
+      "role": [],
+      "used_on": [
+        "Avaleht (image)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 716,
+      "filename": "joogikaart.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/06/joogikaart.jpg",
+      "width": 1080,
+      "height": 1372,
+      "title": "joogikaart",
+      "alt": "",
+      "attached_to": "Joogikaart",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 717,
+      "filename": "Menuu5-e1781048984998.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/06/Menuu5-e1781048984998.jpg",
+      "width": 1080,
+      "height": 1212,
+      "title": "Menüü5",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 718,
+      "filename": "Menuu4-e1781049014579.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/06/Menuu4-e1781049014579.jpg",
+      "width": 1080,
+      "height": 928,
+      "title": "Menüü4",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 719,
+      "filename": "Menuu3-e1781049050545.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/06/Menuu3-e1781049050545.jpg",
+      "width": 1080,
+      "height": 1313,
+      "title": "Menüü3",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 720,
+      "filename": "Menuu2-e1781049074612.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/06/Menuu2-e1781049074612.jpg",
+      "width": 1080,
+      "height": 1288,
+      "title": "Menüü2",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 721,
+      "filename": "menuu1-e1781046322882.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/06/menuu1-e1781046322882.jpg",
+      "width": 832,
+      "height": 972,
+      "title": "menüü1",
+      "alt": "",
+      "attached_to": null,
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 722,
+      "filename": "joogikaart-1.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/06/joogikaart-1.jpg",
+      "width": 1080,
+      "height": 1372,
+      "title": "joogikaart",
+      "alt": "",
+      "attached_to": "Joogikaart",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 723,
+      "filename": "Joogid-ct-Copy.pdf-1.zip",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/06/Joogid-ct-Copy.pdf-1.zip",
+      "width": null,
+      "height": null,
+      "title": "Joogid ct - Copy.pdf (1)",
+      "alt": "",
+      "attached_to": "Joogikaart",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 724,
+      "filename": "kokteilid-ja-alko-ct-Copy-page-001-e1781044957660.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/06/kokteilid-ja-alko-ct-Copy-page-001-e1781044957660.jpg",
+      "width": 830,
+      "height": 1367,
+      "title": "kokteilid ja alko ct - Copy-page-001",
+      "alt": "",
+      "attached_to": "Joogikaart",
+      "role": [],
+      "used_on": [
+        "Joogikaart (image)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 725,
+      "filename": "kokteilid-ja-alko-ct-Copy-page-002-e1781045001380.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/06/kokteilid-ja-alko-ct-Copy-page-002-e1781045001380.jpg",
+      "width": 1030,
+      "height": 457,
+      "title": "kokteilid ja alko ct - Copy-page-002",
+      "alt": "",
+      "attached_to": "Joogikaart",
+      "role": [],
+      "used_on": [
+        "Joogikaart (image)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 726,
+      "filename": "1-e1781044892638.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/06/1-e1781044892638.jpg",
+      "width": 1257,
+      "height": 1373,
+      "title": "1",
+      "alt": "",
+      "attached_to": "Joogikaart",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 727,
+      "filename": "2-e1781044862501.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/06/2-e1781044862501.jpg",
+      "width": 1263,
+      "height": 1450,
+      "title": "2",
+      "alt": "",
+      "attached_to": "Joogikaart",
+      "role": [],
+      "used_on": [
+        "Joogikaart (image)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 731,
+      "filename": "menuu1-1.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/06/menuu1-1.jpg",
+      "width": 1080,
+      "height": 1376,
+      "title": "menüü1",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 94,
+      "filename": "11.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/11.png",
+      "width": 300,
+      "height": 300,
+      "title": "1[1]",
+      "alt": "",
+      "attached_to": "Avaleht",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 95,
+      "filename": "21.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/21.png",
+      "width": 300,
+      "height": 300,
+      "title": "2[1]",
+      "alt": "",
+      "attached_to": "Avaleht",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 96,
+      "filename": "31.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/31.png",
+      "width": 300,
+      "height": 300,
+      "title": "3[1]",
+      "alt": "",
+      "attached_to": "Avaleht",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 97,
+      "filename": "41.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/41.png",
+      "width": 300,
+      "height": 300,
+      "title": "4[1]",
+      "alt": "",
+      "attached_to": "Avaleht",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 98,
+      "filename": "12.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/12.png",
+      "width": 300,
+      "height": 300,
+      "title": "1[2]",
+      "alt": "",
+      "attached_to": "Avaleht",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 99,
+      "filename": "21-1.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/21-1.png",
+      "width": 300,
+      "height": 300,
+      "title": "2[1]",
+      "alt": "",
+      "attached_to": "Avaleht",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 100,
+      "filename": "31-1.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/31-1.png",
+      "width": 300,
+      "height": 300,
+      "title": "3[1]",
+      "alt": "",
+      "attached_to": "Avaleht",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 101,
+      "filename": "41-1.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/41-1.png",
+      "width": 300,
+      "height": 300,
+      "title": "4[1]",
+      "alt": "",
+      "attached_to": "Avaleht",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 297,
+      "filename": "305937859_502083528587132_3184160036415149844_n-1.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/305937859_502083528587132_3184160036415149844_n-1.jpg",
+      "width": 1069,
+      "height": 1065,
+      "title": "305937859_502083528587132_3184160036415149844_n",
+      "alt": "",
+      "attached_to": null,
+      "role": [
+        "logo source used by Astra header (ast-logo-size)"
+      ],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 320,
+      "filename": "305937859_502083528587132_3184160036415149844_n-2.jpg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2024/01/305937859_502083528587132_3184160036415149844_n-2.jpg",
+      "width": 1069,
+      "height": 1065,
+      "title": "305937859_502083528587132_3184160036415149844_n-2",
+      "alt": "",
+      "attached_to": null,
+      "role": [
+        "logo original upload (same source file)"
+      ],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 737,
+      "filename": "1.jpeg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/06/1.jpeg",
+      "width": 1080,
+      "height": 1376,
+      "title": "1",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 738,
+      "filename": "2.jpeg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/06/2.jpeg",
+      "width": 1080,
+      "height": 1382,
+      "title": "2",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 739,
+      "filename": "3.jpeg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/06/3.jpeg",
+      "width": 1080,
+      "height": 1385,
+      "title": "3",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 741,
+      "filename": "5.jpeg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/06/5.jpeg",
+      "width": 1080,
+      "height": 1381,
+      "title": "5",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 742,
+      "filename": "4.jpeg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/06/4.jpeg",
+      "width": 1080,
+      "height": 1382,
+      "title": "4",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 750,
+      "filename": "Messenger_creation_F7729D92-5EE9-4EE0-BBA1-2975E47B21EA.jpeg",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/06/Messenger_creation_F7729D92-5EE9-4EE0-BBA1-2975E47B21EA.jpeg",
+      "width": 1080,
+      "height": 1372,
+      "title": "Messenger_creation_F7729D92-5EE9-4EE0-BBA1-2975E47B21EA",
+      "alt": "",
+      "attached_to": "Joogikaart",
+      "role": [],
+      "used_on": [
+        "Joogikaart (image)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 755,
+      "filename": "1_20260827_132945_0000.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/09/1_20260827_132945_0000.png",
+      "width": 1587,
+      "height": 2245,
+      "title": "1_20260827_132945_0000",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [
+        "Menüü (image)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 756,
+      "filename": "2_20260827_132945_0001.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/09/2_20260827_132945_0001.png",
+      "width": 1587,
+      "height": 2245,
+      "title": "2_20260827_132945_0001",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [
+        "Menüü (image)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 757,
+      "filename": "3_20260827_132945_0002.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/09/3_20260827_132945_0002.png",
+      "width": 1587,
+      "height": 2245,
+      "title": "3_20260827_132945_0002",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [
+        "Menüü (image)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 758,
+      "filename": "4_20260827_132945_0003.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/09/4_20260827_132945_0003.png",
+      "width": 1587,
+      "height": 2245,
+      "title": "4_20260827_132945_0003",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [
+        "Menüü (image)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 759,
+      "filename": "5_20260827_132945_0004.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/09/5_20260827_132945_0004.png",
+      "width": 1587,
+      "height": 2245,
+      "title": "5_20260827_132945_0004",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [
+        "Menüü (image)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 760,
+      "filename": "6_20260827_132945_0005.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/09/6_20260827_132945_0005.png",
+      "width": 1587,
+      "height": 2245,
+      "title": "6_20260827_132945_0005",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [
+        "Menüü (image)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 761,
+      "filename": "7_20260827_132945_0006.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/09/7_20260827_132945_0006.png",
+      "width": 1587,
+      "height": 2245,
+      "title": "7_20260827_132945_0006",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [
+        "Menüü (image)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 762,
+      "filename": "8_20260827_132945_0007.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/09/8_20260827_132945_0007.png",
+      "width": 1587,
+      "height": 2245,
+      "title": "8_20260827_132945_0007",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [
+        "Menüü (image)"
+      ],
+      "downloaded": false
+    },
+    {
+      "attachment_id": 763,
+      "filename": "9_20260827_132945_0008.png",
+      "url": "https://cafetallinn.ee/wp-content/uploads/2026/09/9_20260827_132945_0008.png",
+      "width": 1587,
+      "height": 2245,
+      "title": "9_20260827_132945_0008",
+      "alt": "",
+      "attached_to": "Menüü",
+      "role": [],
+      "used_on": [
+        "Menüü (image)"
+      ],
+      "downloaded": false
+    }
+  ]
+}

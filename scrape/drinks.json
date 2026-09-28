@@ -1,0 +1,262 @@
+{
+  "_source": "Page \"Joogikaart\" (id 403) UNPUBLISHED Elementor text. The live page shows 4 images instead (see images[]); those were not accessible and could not be transcribed. Treat everything here as needs_review.",
+  "live_source_images": [
+    "https://cafetallinn.ee/wp-content/uploads/2026/06/Messenger_creation_F7729D92-5EE9-4EE0-BBA1-2975E47B21EA.jpeg",
+    "https://cafetallinn.ee/wp-content/uploads/2026/06/2-e1781044862501.jpg",
+    "https://cafetallinn.ee/wp-content/uploads/2026/06/kokteilid-ja-alko-ct-Copy-page-001-e1781044957660.jpg",
+    "https://cafetallinn.ee/wp-content/uploads/2026/06/kokteilid-ja-alko-ct-Copy-page-002-e1781045001380.jpg"
+  ],
+  "title": "Cafe Tallinn Joogid/Drinks",
+  "categories": [
+    {
+      "name": "Kuumad joogid/Hot drinks",
+      "items": [
+        {
+          "raw": "Kohv väike/suur/Coffee small/large 2.30€/2.80€",
+          "name": "Kohv väike/suur/Coffee small/large",
+          "description": null,
+          "price": "2.30€/2.80€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Cappuccino 3.00€",
+          "name": "Cappuccino",
+          "description": null,
+          "price": "3.00€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Caffe Latte 3.00€",
+          "name": "Caffe Latte",
+          "description": null,
+          "price": "3.00€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Tee/Tea 2.00€",
+          "name": "Tee/Tea",
+          "description": null,
+          "price": "2.00€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Tee kannuga/Tea with a jug 3.50€",
+          "name": "Tee kannuga/Tea with a jug",
+          "description": null,
+          "price": "3.50€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Kakao/piparmündikakao/Cocoa/mint cocoa 2.50/3.00€",
+          "name": "Kakao/piparmündikakao/Cocoa/mint cocoa",
+          "description": null,
+          "price": "2.50/3.00€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Espresso väike/suur/Espresso small/large 2.00/2.50€",
+          "name": "Espresso väike/suur/Espresso small/large",
+          "description": null,
+          "price": "2.00/2.50€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Espresso macchiato 2.50€",
+          "name": "Espresso macchiato",
+          "description": null,
+          "price": "2.50€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Pumpkin Spice latte 4.00€",
+          "name": "Pumpkin Spice latte",
+          "description": null,
+          "price": "4.00€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Šokolaadijook karamelliga 4.00€",
+          "name": "Šokolaadijook karamelliga",
+          "description": null,
+          "price": "4.00€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Mochaccino 3.80€",
+          "name": "Mochaccino",
+          "description": null,
+          "price": "3.80€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Americano 2.00€",
+          "name": "Americano",
+          "description": null,
+          "price": "2.00€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Flat White 3.50€",
+          "name": "Flat White",
+          "description": null,
+          "price": "3.50€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Iiri kohv/Irish coffee 6.50€",
+          "name": "Iiri kohv/Irish coffee",
+          "description": null,
+          "price": "6.50€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Kohv Vana Tallinnaga/Coffee with Old Tallinn 6.50€",
+          "name": "Kohv Vana Tallinnaga/Coffee with Old Tallinn",
+          "description": null,
+          "price": "6.50€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Caffe Latte topelt espressoga/Caffe Latte with double espresso 3.50€",
+          "name": "Caffe Latte topelt espressoga/Caffe Latte with double espresso",
+          "description": null,
+          "price": "3.50€",
+          "tags": [],
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Külmad joogid/Cold Drinks",
+      "items": [
+        {
+          "raw": "Mahl/Juice (0,2/04 l) 2.00€/ 3.50€",
+          "name": "Mahl/Juice (0,2/04 l)",
+          "description": null,
+          "price": "2.00€/ 3.50€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Piim/Keefir/Milk/kefir (0,2/0,4 l) 1.50€/2.00€",
+          "name": "Piim/Keefir/Milk/kefir (0,2/0,4 l)",
+          "description": null,
+          "price": "1.50€/2.00€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Aura vesi/Aura water 2.00€",
+          "name": "Aura vesi/Aura water",
+          "description": null,
+          "price": "2.00€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Coca-cola (0.5 l) 2.50€",
+          "name": "Coca-cola (0.5 l)",
+          "description": null,
+          "price": "2.50€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Coca-cola zero (0,5 l) 2.50€",
+          "name": "Coca-cola zero (0,5 l)",
+          "description": null,
+          "price": "2.50€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Fanta, Sprite (0,5 l) 2 . 5 0 €",
+          "name": "Fanta, Sprite (0,5 l)",
+          "description": null,
+          "price": "2 . 5 0 €",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Fuze tea 3.00€",
+          "name": "Fuze tea",
+          "description": null,
+          "price": "3.00€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Kali 2.50€",
+          "name": "Kali",
+          "description": null,
+          "price": "2.50€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Limonaad/Lemonade 2.00€",
+          "name": "Limonaad/Lemonade",
+          "description": null,
+          "price": "2.00€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Rose limonaad/Rose lemonade 1,50€",
+          "name": "Rose limonaad/Rose lemonade",
+          "description": null,
+          "price": "1,50€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Kõrrejook/Sraw drink 1.50€",
+          "name": "Kõrrejook/Sraw drink",
+          "description": null,
+          "price": "1.50€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Maitsevesi/Flavored water (1l) 2.00€",
+          "name": "Maitsevesi/Flavored water (1l)",
+          "description": null,
+          "price": "2.00€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Jäätisekokteil/Ice cream cocktail 3.50€",
+          "name": "Jäätisekokteil/Ice cream cocktail",
+          "description": null,
+          "price": "3.50€",
+          "tags": [],
+          "needs_review": true
+        },
+        {
+          "raw": "Jääkohv karamelliga/kondenspiimaga/Iced coffee with caramel/with condensed milk 4.20€",
+          "name": "Jääkohv karamelliga/kondenspiimaga/Iced coffee with caramel/with condensed milk",
+          "description": null,
+          "price": "4.20€",
+          "tags": [],
+          "needs_review": true
+        }
+      ]
+    }
+  ]
+}
