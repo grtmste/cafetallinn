@@ -115,14 +115,26 @@ while ( have_posts() ) :
 	<section class="explore section section--tight" aria-labelledby="explore-title">
 		<div class="container">
 			<h2 class="screen-reader-text" id="explore-title"><?php esc_html_e( 'Avasta', 'cafetallinn' ); ?></h2>
-			<ul class="tiles">
+			<?php
+			$tiles = array(
+				'tile_menu_show'     => array( __( 'Menüü', 'cafetallinn' ), __( 'Ava menüü', 'cafetallinn' ), cafetallinn_page_url( 'menuu', home_url( '/#menyy' ) ), 'menyy', cafetallinn_image_id( 'tile_menu_image', 'ANF_6726.jpg' ) ),
+				'tile_drinks_show'   => array( __( 'Joogikaart', 'cafetallinn' ), __( 'Ava joogikaart', 'cafetallinn' ), cafetallinn_page_url( 'joogikaart', home_url( '/#joogikaart' ) ), 'joogikaart', cafetallinn_image_id( 'tile_drinks_image', 'ANF_6909.jpg' ) ),
+				'tile_events_show'   => array( __( 'Sündmused', 'cafetallinn' ), __( 'Broneeri', 'cafetallinn' ), cafetallinn_page_url( 'broneeri' ), '', cafetallinn_image_id( 'tile_events_image', 'ANF_6945.jpg' ) ),
+				'tile_catering_show' => array( __( 'Catering', 'cafetallinn' ), __( 'Küsi pakkumist', 'cafetallinn' ), cafetallinn_page_url( 'catering' ), '', cafetallinn_image_id( 'tile_catering_image', 'ANF_6817.jpg' ) ),
+			);
+			$tiles = array_values(
+				array_filter(
+					$tiles,
+					function ( $key ) {
+						return (bool) cafetallinn_info( $key );
+					},
+					ARRAY_FILTER_USE_KEY
+				)
+			);
+			if ( $tiles ) :
+				?>
+			<ul class="tiles tiles--<?php echo esc_attr( (string) count( $tiles ) ); ?>">
 				<?php
-				$tiles = array(
-					array( __( 'Menüü', 'cafetallinn' ), __( 'Ava menüü', 'cafetallinn' ), cafetallinn_page_url( 'menuu', home_url( '/#menyy' ) ), 'menyy', cafetallinn_image_id( 'tile_menu_image', 'ANF_6726.jpg' ) ),
-					array( __( 'Joogikaart', 'cafetallinn' ), __( 'Ava joogikaart', 'cafetallinn' ), cafetallinn_page_url( 'joogikaart', home_url( '/#joogikaart' ) ), 'joogikaart', cafetallinn_image_id( 'tile_drinks_image', 'ANF_6909.jpg' ) ),
-					array( __( 'Sündmused', 'cafetallinn' ), __( 'Broneeri', 'cafetallinn' ), cafetallinn_page_url( 'broneeri' ), '', cafetallinn_image_id( 'tile_events_image', 'ANF_6945.jpg' ) ),
-					array( __( 'Catering', 'cafetallinn' ), __( 'Küsi pakkumist', 'cafetallinn' ), cafetallinn_page_url( 'catering' ), '', cafetallinn_image_id( 'tile_catering_image', 'ANF_6817.jpg' ) ),
-				);
 				foreach ( $tiles as $i => $tile ) :
 					list( $label, $cta, $url, $modal, $img ) = $tile;
 					?>
@@ -152,6 +164,7 @@ while ( have_posts() ) :
 					</li>
 				<?php endforeach; ?>
 			</ul>
+			<?php endif; ?>
 		</div>
 	</section>
 

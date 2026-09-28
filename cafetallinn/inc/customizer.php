@@ -26,6 +26,10 @@ function cafetallinn_defaults() {
 		'map_embed'           => 'https://maps.google.com/maps?q=Cafe%20Tallinn%2C%20Rannarootsi%20keskus%2C%20Haapsalu&z=16&output=embed',
 		'map_link'            => 'https://www.google.com/maps/search/?api=1&query=Cafe+Tallinn+Rannarootsi+Haapsalu',
 		'map_autoload'        => true,
+		'tile_menu_show'      => true,
+		'tile_drinks_show'    => true,
+		'tile_events_show'    => true,
+		'tile_catering_show'  => true,
 		'hero_image_2'        => 0,
 		'tile_menu_image'     => 0,
 		'tile_drinks_image'   => 0,
@@ -102,7 +106,7 @@ function cafetallinn_customize_register( $wp_customize ) {
 		'cafetallinn_hours'   => __( 'Lahtiolekuajad', 'cafetallinn' ),
 		'cafetallinn_social'  => __( 'Sotsiaalmeedia', 'cafetallinn' ),
 		'cafetallinn_map'     => __( 'Kaart', 'cafetallinn' ),
-		'cafetallinn_home'    => __( 'Avalehe pildid', 'cafetallinn' ),
+		'cafetallinn_home'    => __( 'Avaleht: pildid ja plokid', 'cafetallinn' ),
 	);
 	foreach ( $sections as $id => $title ) {
 		$wp_customize->add_section( $id, array( 'title' => $title, 'panel' => 'cafetallinn_info' ) );
@@ -174,3 +178,38 @@ function cafetallinn_customize_register( $wp_customize ) {
 	}
 }
 add_action( 'customize_register', 'cafetallinn_customize_register' );
+
+/**
+ * Show/hide switches for the four front-page tiles.
+ *
+ * @param WP_Customize_Manager $wp_customize Manager.
+ */
+function cafetallinn_customize_tiles( $wp_customize ) {
+	$tiles = array(
+		'tile_menu_show'     => __( 'Näita plokki "Menüü"', 'cafetallinn' ),
+		'tile_drinks_show'   => __( 'Näita plokki "Joogikaart"', 'cafetallinn' ),
+		'tile_events_show'   => __( 'Näita plokki "Sündmused"', 'cafetallinn' ),
+		'tile_catering_show' => __( 'Näita plokki "Catering"', 'cafetallinn' ),
+	);
+	$priority = 1;
+	foreach ( $tiles as $key => $label ) {
+		$wp_customize->add_setting(
+			'cafetallinn_' . $key,
+			array(
+				'default'           => true,
+				'sanitize_callback' => 'cafetallinn_sanitize_checkbox',
+			)
+		);
+		$wp_customize->add_control(
+			'cafetallinn_' . $key,
+			array(
+				'label'    => $label,
+				'section'  => 'cafetallinn_home',
+				'type'     => 'checkbox',
+				'priority' => $priority++,
+			)
+		);
+	}
+}
+add_action( 'customize_register', 'cafetallinn_customize_tiles', 20 );
+

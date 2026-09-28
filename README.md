@@ -20,7 +20,7 @@ Custom classic theme for [cafetallinn.ee](https://cafetallinn.ee/). Installable 
 | What | Where |
 |---|---|
 | Address, phone, e-mail, opening hours, Facebook/Instagram, map (and whether it loads immediately) | **Appearance → Customize → Kohviku info** |
-| Home page images (second hero photo, 4 tiles) | Customize → Kohviku info → Avalehe pildid. Main hero = featured image of page "Avaleht" |
+| Home page tiles (show/hide Menüü, Joogikaart, Sündmused, Catering) and images | Customize → Kohviku info → **Avaleht: pildid ja plokid**. Main hero = featured image of page "Avaleht" |
 | "Meie lugu" text | Pages → Avaleht |
 | Page big heading (H1) and meta description | Page editor → box "Lehe pealkiri ja kirjeldus" |
 | Gallery images | Pages → Galerii (edit the gallery block) |

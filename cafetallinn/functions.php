@@ -7,7 +7,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'CAFETALLINN_VERSION', '1.0.1' );
+define( 'CAFETALLINN_VERSION', '1.0.2' );
 define( 'CAFETALLINN_DIR', get_template_directory() );
 define( 'CAFETALLINN_URI', get_template_directory_uri() );
 
