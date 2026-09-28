@@ -1,0 +1,11 @@
+/* Block editor: match front-end typography. */
+@font-face { font-family: "Jost"; font-weight: 300 700; font-display: swap; src: url(../fonts/jost-latin-wght-normal.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+20AC; }
+@font-face { font-family: "Jost"; font-weight: 300 700; font-display: swap; src: url(../fonts/jost-latin-ext-wght-normal.woff2) format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+1E00-1E9F, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Cormorant Garamond"; font-weight: 500; font-display: swap; src: url(../fonts/cormorant-garamond-latin-500-normal.woff2) format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+2000-206F, U+20AC; }
+@font-face { font-family: "Cormorant Garamond"; font-weight: 500; font-display: swap; src: url(../fonts/cormorant-garamond-latin-ext-500-normal.woff2) format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+1E00-1E9F, U+2C60-2C7F, U+A720-A7FF; }
+body { background: #fbf8f2; color: #1b1916; font-family: "Jost", "Helvetica Neue", Arial, sans-serif; font-size: 17px; line-height: 1.7; }
+h1, h2, h3, h4, h5, h6, .editor-post-title__input { font-family: "Cormorant Garamond", Garamond, serif; font-weight: 500; line-height: 1.1; }
+a { color: #7f6131; }
+* { border-radius: 0 !important; }
+.wp-block-button__link { background: #1b1916; color: #f6f1e7; text-transform: uppercase; letter-spacing: .14em; font-size: 14px; }
+.is-style-lead { font-family: "Cormorant Garamond", Garamond, serif; font-size: 1.5rem; line-height: 1.4; }

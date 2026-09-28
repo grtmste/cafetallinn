@@ -1,5 +1,5 @@
 {
-  "_note": "Binary files are NOT included in a WXR export and cafetallinn.ee is blocked from the build environment; nothing downloaded yet.",
+  "_note": "Binary files supplied by the client in chat (cafetallinn.ee is blocked from the build environment). \"local_file\" = file in this folder. Screenshots and menu page images are listed under extra_files.",
   "images": [
     {
       "attachment_id": 10,
@@ -25,7 +25,10 @@
       "attached_to": null,
       "role": [],
       "used_on": [],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "fresh-coffee-steams-wooden-table-close-up-generative-ai.jpg",
+      "client_upload": "7.jpg",
+      "note": "Supplied by client as 7.jpg; matched by size/content (probable, not byte-identical)."
     },
     {
       "attachment_id": 16,
@@ -40,7 +43,9 @@
         "logo original upload (same source file)"
       ],
       "used_on": [],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "305937859_502083528587132_3184160036415149844_n.jpg",
+      "client_upload": "26.jpg"
     },
     {
       "attachment_id": 17,
@@ -98,7 +103,9 @@
       "used_on": [
         "Galerii (gallery)"
       ],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "ANF_6611.jpg",
+      "client_upload": "11.jpg"
     },
     {
       "attachment_id": 115,
@@ -114,7 +121,9 @@
         "Avaleht (carousel)",
         "Galerii (gallery)"
       ],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "ANF_6615.jpg",
+      "client_upload": "12.jpg"
     },
     {
       "attachment_id": 116,
@@ -130,7 +139,9 @@
         "Avaleht (carousel)",
         "Galerii (gallery)"
       ],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "ANF_6649.jpg",
+      "client_upload": "13.jpg"
     },
     {
       "attachment_id": 117,
@@ -146,7 +157,9 @@
         "Avaleht (carousel)",
         "Galerii (gallery)"
       ],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "ANF_6687.jpg",
+      "client_upload": "14.jpg"
     },
     {
       "attachment_id": 118,
@@ -162,7 +175,9 @@
         "Avaleht (carousel)",
         "Galerii (gallery)"
       ],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "ANF_6726.jpg",
+      "client_upload": "15.jpg"
     },
     {
       "attachment_id": 119,
@@ -178,7 +193,9 @@
         "Avaleht (carousel)",
         "Galerii (gallery)"
       ],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "ANF_6790.jpg",
+      "client_upload": "16.jpg"
     },
     {
       "attachment_id": 120,
@@ -194,7 +211,9 @@
         "Avaleht (carousel)",
         "Galerii (gallery)"
       ],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "ANF_6817.jpg",
+      "client_upload": "17.jpg"
     },
     {
       "attachment_id": 121,
@@ -210,7 +229,9 @@
         "Avaleht (carousel)",
         "Galerii (gallery)"
       ],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "ANF_6854.jpg",
+      "client_upload": "18.jpg"
     },
     {
       "attachment_id": 122,
@@ -226,7 +247,9 @@
         "Avaleht (carousel)",
         "Galerii (gallery)"
       ],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "ANF_6902.jpg",
+      "client_upload": "19.jpg"
     },
     {
       "attachment_id": 123,
@@ -242,7 +265,9 @@
         "Avaleht (carousel)",
         "Galerii (gallery)"
       ],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "ANF_6909.jpg",
+      "client_upload": "20.jpg"
     },
     {
       "attachment_id": 124,
@@ -258,7 +283,9 @@
         "Avaleht (carousel)",
         "Galerii (gallery)"
       ],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "ANF_6914.jpg",
+      "client_upload": "22.jpg"
     },
     {
       "attachment_id": 125,
@@ -274,7 +301,9 @@
         "Avaleht (carousel)",
         "Galerii (gallery)"
       ],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "ANF_6916.jpg",
+      "client_upload": "23.jpg"
     },
     {
       "attachment_id": 126,
@@ -290,7 +319,9 @@
         "Avaleht (carousel)",
         "Galerii (gallery)"
       ],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "ANF_6925.jpg",
+      "client_upload": "24.jpg"
     },
     {
       "attachment_id": 127,
@@ -306,7 +337,9 @@
         "Avaleht (carousel)",
         "Galerii (gallery)"
       ],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "ANF_6927.jpg",
+      "client_upload": "25.jpg"
     },
     {
       "attachment_id": 128,
@@ -324,7 +357,9 @@
         "Avaleht (carousel)",
         "Galerii (gallery)"
       ],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "ANF_6945.jpg",
+      "client_upload": "21.jpg"
     },
     {
       "attachment_id": 198,
@@ -573,7 +608,10 @@
       "used_on": [
         "Avaleht (image)"
       ],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "avaleht-tile-menuu-2024-02-11.webp",
+      "client_upload": "27.webp",
+      "note": "Supplied by client as 27.webp; matched by size/content (probable, not byte-identical)."
     },
     {
       "attachment_id": 42,
@@ -586,7 +624,10 @@
       "attached_to": null,
       "role": [],
       "used_on": [],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "close-up-barista-making-cappuccino-bartender-preparing-coffee-drink.jpg",
+      "client_upload": "9.jpg",
+      "note": "Supplied by client as 9.jpg; matched by size/content (probable, not byte-identical)."
     },
     {
       "attachment_id": 43,
@@ -612,7 +653,10 @@
       "attached_to": null,
       "role": [],
       "used_on": [],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "selective-focus-shot-bucket-with-forks-napkins-trendy-cafe-table.jpg",
+      "client_upload": "10.jpg",
+      "note": "Supplied by client as 10.jpg; matched by size/content (probable, not byte-identical)."
     },
     {
       "attachment_id": 45,
@@ -640,7 +684,10 @@
       "used_on": [
         "Avaleht (image)"
       ],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "avaleht-tile-joogikaart-2024-02-21.webp",
+      "client_upload": "28.webp",
+      "note": "Supplied by client as 28.webp; matched by size/content (probable, not byte-identical)."
     },
     {
       "attachment_id": 440,
@@ -655,7 +702,10 @@
       "used_on": [
         "Avaleht (image)"
       ],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "avaleht-tile-sundmused-2024-02-31.webp",
+      "client_upload": "29.webp",
+      "note": "Supplied by client as 29.webp; matched by size/content (probable, not byte-identical)."
     },
     {
       "attachment_id": 441,
@@ -670,7 +720,10 @@
       "used_on": [
         "Avaleht (image)"
       ],
-      "downloaded": false
+      "downloaded": true,
+      "local_file": "avaleht-tile-catering-2024-02-41.webp",
+      "client_upload": "30.webp",
+      "note": "Supplied by client as 30.webp; matched by size/content (probable, not byte-identical)."
     },
     {
       "attachment_id": 716,
@@ -1195,6 +1248,68 @@
         "Menüü (image)"
       ],
       "downloaded": false
+    }
+  ],
+  "extra_files": [
+    {
+      "file": "menuu-hommikusook-supid.webp",
+      "client_upload": "1.webp"
+    },
+    {
+      "file": "menuu-salatid-poke.webp",
+      "client_upload": "37.webp"
+    },
+    {
+      "file": "menuu-pastad-pearoad.webp",
+      "client_upload": "35.webp"
+    },
+    {
+      "file": "menuu-burgerid-pannkoogid.webp",
+      "client_upload": "36.webp"
+    },
+    {
+      "file": "menuu-suupisted.webp",
+      "client_upload": "38.webp"
+    },
+    {
+      "file": "menuu-lastemenuu-magustoidud.webp",
+      "client_upload": "34.webp"
+    },
+    {
+      "file": "joogid-kulmad-kuumad.webp",
+      "client_upload": "33.webp"
+    },
+    {
+      "file": "joogid-kokteilid.webp",
+      "client_upload": "32.webp"
+    },
+    {
+      "file": "joogid-veinid-olu-shotid.webp",
+      "client_upload": "31.webp"
+    },
+    {
+      "file": "screenshot-kontakt.png",
+      "client_upload": "2.png"
+    },
+    {
+      "file": "screenshot-galerii.webp",
+      "client_upload": "3.webp"
+    },
+    {
+      "file": "screenshot-broneeri.webp",
+      "client_upload": "4.webp"
+    },
+    {
+      "file": "screenshot-joogikaart.webp",
+      "client_upload": "5.webp"
+    },
+    {
+      "file": "screenshot-avaleht.webp",
+      "client_upload": "6.webp"
+    },
+    {
+      "file": "cafe-tallinn-logo-transparent.png",
+      "client_upload": "8.png"
     }
   ]
 }

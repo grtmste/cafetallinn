@@ -1,29 +1,47 @@
 {
-  "_source": "Collected from page texts in the WXR export",
+  "_source": "Live site footer + Kontakt page (client screenshots), WXR export.",
   "name": "Café Tallinn",
   "address": {
-    "value": null,
-    "known_fragment": "Haapsalu Rannarootsi keskuses",
-    "source": "Avaleht \"Meie lugu\" text"
+    "value": "Rannarootsi keskus, Haapsalu",
+    "needs_review": true,
+    "note": "Only \"Haapsalu Rannarootsi keskuses\" appears in site text; the map pin sits in the Rannarootsi centre next to JYSK. Street address not published on the site."
   },
-  "phones": [
-    {
-      "value": "+372 56630243",
-      "source": "Kontakt page icon list"
-    },
-    {
-      "value": "+372 472 9021",
-      "href": "tel:+3724729021",
-      "source": "FAQ \"Kuidas ma saan lauda reserveerida?\""
-    }
-  ],
+  "phone": {
+    "value": "+372 56630243",
+    "href": "tel:+37256630243",
+    "source": "Kontakt page + footer on every page"
+  },
+  "phone_other": {
+    "value": "+372 472 9021",
+    "source": "FAQ answer \"Kuidas ma saan lauda reserveerida?\" only",
+    "needs_review": true
+  },
   "email": "info@cafetallinn.ee",
-  "opening_hours": null,
-  "opening_hours_related_text": "Köök läheb kinni 15 minutit enne kohviku sulgemist. (FAQ)",
+  "opening_hours": {
+    "KOHVIK AVATUD": [
+      "E-L 10.00 - 20.00",
+      "P 10.00 - 19.00"
+    ],
+    "TERRASS AVATUD": [
+      "E-N 10.00-20.00",
+      "R-L 10.00-23.00",
+      "P 10.00-19.00"
+    ],
+    "note": "Verbatim from the live footer. Entrance chalkboard photo (ANF_6902) shows older hours."
+  },
+  "kitchen_note": "Köök läheb kinni 15 minutit enne kohviku sulgemist. (KKK)",
   "social": {
     "facebook": "http://www.facebook.com/cafetallinn",
-    "instagram": null
+    "instagram": {
+      "value": null,
+      "needs_review": true,
+      "note": "Instagram icon is shown in the live footer but its URL is not in the export."
+    }
   },
-  "map": null,
-  "needs_review": true
+  "map": {
+    "query": "Cafe Tallinn, Rannarootsi keskus, Haapsalu",
+    "embed_url": "https://maps.google.com/maps?q=Cafe%20Tallinn%2C%20Rannarootsi%20keskus%2C%20Haapsalu&z=16&output=embed",
+    "needs_review": true,
+    "note": "Live footer embeds a Google map pinned on \"Cafe Tallinn\" in Rannarootsi."
+  }
 }

@@ -1,0 +1,655 @@
+{
+  "_source": "Transcribed verbatim from the joogikaart page images supplied by the client (live page images /wp-content/uploads/2026/09/*_20260827_132945_000N.png). Every entry is needs_review because it was read from an image.",
+  "type": "joogikaart",
+  "categories": [
+    {
+      "name": "Külmad joogid",
+      "slug": "kulmad-joogid",
+      "source_heading": "KÜLMAD JOOGID",
+      "order": 1,
+      "source_image": "images/joogid-kulmad-kuumad.webp",
+      "items": [
+        {
+          "name": "Maitsevesi 1L",
+          "price": "2.00€",
+          "description": "",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Mahl 0.25L / 0.5L",
+          "price": "2.50€ / 4.00€",
+          "description": "",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "Piim / Keefir 0.25L / 0.5L",
+          "price": "2.00€ / 3.00€",
+          "description": "",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        },
+        {
+          "name": "Aura vesi",
+          "price": "2.00€",
+          "description": "",
+          "tags": [],
+          "order": 4,
+          "needs_review": true
+        },
+        {
+          "name": "Coca-Cola 0.5L",
+          "price": "3.00€",
+          "description": "",
+          "tags": [],
+          "order": 5,
+          "needs_review": true
+        },
+        {
+          "name": "Coca-Cola Zero 0.5L",
+          "price": "3.00€",
+          "description": "",
+          "tags": [],
+          "order": 6,
+          "needs_review": true
+        },
+        {
+          "name": "Fanta / Sprite 0.5L",
+          "price": "3.00€",
+          "description": "",
+          "tags": [],
+          "order": 7,
+          "needs_review": true
+        },
+        {
+          "name": "Fuze Tea",
+          "price": "3.50€",
+          "description": "",
+          "tags": [],
+          "order": 8,
+          "needs_review": true
+        },
+        {
+          "name": "Kali",
+          "price": "3.00€",
+          "description": "",
+          "tags": [],
+          "order": 9,
+          "needs_review": true
+        },
+        {
+          "name": "Limonaad",
+          "price": "3.00€",
+          "description": "",
+          "tags": [],
+          "order": 10,
+          "needs_review": true
+        },
+        {
+          "name": "Rose limonaad",
+          "price": "2.50€",
+          "description": "",
+          "tags": [],
+          "order": 11,
+          "needs_review": true
+        },
+        {
+          "name": "Kõrrejook",
+          "price": "2.00€",
+          "description": "",
+          "tags": [],
+          "order": 12,
+          "needs_review": true
+        },
+        {
+          "name": "Värske mahl",
+          "price": "4.90€",
+          "description": "",
+          "tags": [],
+          "order": 13,
+          "needs_review": true
+        },
+        {
+          "name": "Jäätisekokteil",
+          "price": "4.50€",
+          "description": "",
+          "tags": [],
+          "order": 14,
+          "needs_review": true
+        },
+        {
+          "name": "Jääkohv karamelliga või kondenspiimaga",
+          "price": "5.00€",
+          "description": "",
+          "tags": [],
+          "order": 15,
+          "needs_review": true
+        },
+        {
+          "name": "Passioni majalimonaad",
+          "price": "7.00€",
+          "description": "",
+          "tags": [],
+          "order": 16,
+          "needs_review": true
+        },
+        {
+          "name": "Heavenly limonaad",
+          "price": "3.00€",
+          "description": "",
+          "tags": [],
+          "order": 17,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Kuumad joogid",
+      "slug": "kuumad-joogid",
+      "source_heading": "KUUMAD JOOGID",
+      "order": 2,
+      "source_image": "images/joogid-kulmad-kuumad.webp",
+      "items": [
+        {
+          "name": "Kohv piimaga",
+          "price": "2.90€ / 3.50€",
+          "description": "",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Must kohv",
+          "price": "2.90€ / 3.50€",
+          "description": "",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "Caffè Latte",
+          "price": "4.00€",
+          "description": "",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        },
+        {
+          "name": "Cappuccino",
+          "price": "4.00€",
+          "description": "",
+          "tags": [],
+          "order": 4,
+          "needs_review": true
+        },
+        {
+          "name": "Tee",
+          "price": "2.50€",
+          "description": "",
+          "tags": [],
+          "order": 5,
+          "needs_review": true
+        },
+        {
+          "name": "Tee kannuga",
+          "price": "4.50€",
+          "description": "",
+          "tags": [],
+          "order": 6,
+          "needs_review": true
+        },
+        {
+          "name": "Kakao piparmündiga",
+          "price": "4.00€",
+          "description": "",
+          "tags": [],
+          "order": 7,
+          "needs_review": true
+        },
+        {
+          "name": "Kakao",
+          "price": "4.00€",
+          "description": "",
+          "tags": [],
+          "order": 8,
+          "needs_review": true
+        },
+        {
+          "name": "Espresso",
+          "price": "3.00€ / 3.50€",
+          "description": "",
+          "tags": [],
+          "order": 9,
+          "needs_review": true
+        },
+        {
+          "name": "Matcha Latte soe/külm",
+          "price": "5.00€",
+          "description": "",
+          "tags": [],
+          "order": 10,
+          "needs_review": true
+        },
+        {
+          "name": "Americano",
+          "price": "2.50€",
+          "description": "",
+          "tags": [],
+          "order": 11,
+          "needs_review": true
+        },
+        {
+          "name": "Flat White",
+          "price": "3.90€",
+          "description": "",
+          "tags": [],
+          "order": 12,
+          "needs_review": true
+        },
+        {
+          "name": "Iiri kohv",
+          "price": "7.50€",
+          "description": "",
+          "tags": [],
+          "order": 13,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Kokteilid",
+      "slug": "kokteilid",
+      "source_heading": "KOKTEILID",
+      "order": 3,
+      "source_image": "images/joogid-kokteilid.webp",
+      "items": [
+        {
+          "name": "Gin & Tonic",
+          "price": "8€",
+          "description": "Klassika, mis ei vaja tutvustamist. Gin, toonik ja laim loovad värske ning mõnusalt tasakaalus kokteili.",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Tom Collins",
+          "price": "8€",
+          "description": "Kerge ja kihisev kokteil, kus gin kohtub sidrunimahla ja mulliveega. Lihtne valik neile, kes tahavad midagi kerget ja hästi joodavat.",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "Long Island",
+          "price": "10€",
+          "description": "Viin, gin, tequila, rumm, triple sec, sidrunimahl ja cola. Tõeline klassik neile, kes ei karda veidi tugevamat kokteili.",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        },
+        {
+          "name": "Mojito",
+          "price": "8€",
+          "description": "Rumm, piparmünt, laim, suhkur ja mullivesi. Värske suvine lemmik, mis sobib igaks hetkeks.",
+          "tags": [],
+          "order": 4,
+          "needs_review": true
+        },
+        {
+          "name": "Passioni Mojito",
+          "price": "10€",
+          "description": "Klassikaline Mojito troopilise passioni maitsega.",
+          "tags": [],
+          "order": 5,
+          "needs_review": true
+        },
+        {
+          "name": "Margarita",
+          "price": "6€",
+          "description": "Tequila, triple sec ja värske laimimahl. Mõnusalt tsitruseline, värske ja parajalt särtsakas klassika.",
+          "tags": [],
+          "order": 6,
+          "needs_review": true
+        },
+        {
+          "name": "Maasika Gin Sour",
+          "price": "6€",
+          "description": "Gin, maasikas, sidrunimahl ja suhkrusiirup. Värskelt marjane, mõnusalt hapukas ja magusa alatooniga kokteil.",
+          "tags": [],
+          "order": 7,
+          "needs_review": true
+        },
+        {
+          "name": "Cuba Libre",
+          "price": "8€",
+          "description": "Rumm, cola ja laim. Mõnusalt tuttav maitse väikese Kariibi mere puudutusega.",
+          "tags": [],
+          "order": 8,
+          "needs_review": true
+        },
+        {
+          "name": "Skinny Bitch",
+          "price": "7€",
+          "description": "Viin, laim ja mullivesi – lihtne, värske ja ilma liigse magususeta. Ideaalne neile, kes eelistavad kergemat kokteili.",
+          "tags": [],
+          "order": 9,
+          "needs_review": true
+        },
+        {
+          "name": "Tequila Sunrise",
+          "price": "8€",
+          "description": "Tequila, apelsinimahl ja grenadiin – päikesetõusu värvid ja mahlane apelsinimaitse. Pilkupüüdev klassika, mis toob suve igasse õhtusse.",
+          "tags": [],
+          "order": 10,
+          "needs_review": true
+        },
+        {
+          "name": "Aperol Spritz",
+          "price": "8€",
+          "description": "Aperol, vahuvein ja mullivesi. Täiuslik valik rahulikuks õhtuks või heaks vestluseks.",
+          "tags": [],
+          "order": 11,
+          "needs_review": true
+        },
+        {
+          "name": "Valge Veini Spritz",
+          "price": "7€",
+          "description": "Valge vein, mullivesi ja leedriõie siirup. Kerge, lilleline ja mõnusalt värskendav kokteil.",
+          "tags": [],
+          "order": 12,
+          "needs_review": true
+        },
+        {
+          "name": "Musid & Kallid",
+          "price": "9€",
+          "description": "Chambord, gin, õunamahl, suhkrusiirup, Schweppes ja Sprite. Magus, roosa ja natuke vallatu.",
+          "tags": [],
+          "order": 13,
+          "needs_review": true
+        },
+        {
+          "name": "Iiri kohv",
+          "price": "7.50€",
+          "description": "Kohv, Iiri viski, pruun suhkur ja koor. Soojendav ja sametine klassika, kus mõrkjas kohv kohtub viski maheduse ning kreemja koorekihiga.",
+          "tags": [],
+          "order": 14,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Kokteili shotid",
+      "slug": "kokteili-shotid",
+      "source_heading": "KOKTEILI SHOTID",
+      "order": 4,
+      "source_image": "images/joogid-veinid-olu-shotid.webp",
+      "items": [
+        {
+          "name": "Hot Shot",
+          "price": "4€ | 5 tk — 15€",
+          "description": "Espresso, Galliano, vahukoor ja kaneel. Kohv, magusus ja kerge teravus kohtuvad ühes legendaarses klassikus.",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Green Mexican",
+          "price": "5€ | 5 tk — 20€",
+          "description": "Tequila, sidrunimahl ja banaanilikköör. Neile, kes tahavad shotist natuke rohkem kui lihtsalt alkoholi maitset.",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "Cheesecake Shot",
+          "price": "5€ | 5 tk — 20€",
+          "description": "Dooley’s, Sour Apple ja apelsinimahl. Kui magustoiduks pole enam kõhus ruumi, siis see shot ajab asja ära.",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        },
+        {
+          "name": "Candy shop shot",
+          "price": "5€ | 5 tk — 20€",
+          "description": "Maasika- ja virsikulikköör Baileys´ega. Magus, kreemjas ja mõnusalt marjane shot, mis maitseb täpselt nagu maiustus.",
+          "tags": [],
+          "order": 4,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Valged veinid",
+      "slug": "valged-veinid",
+      "source_heading": "VALGED VEINID",
+      "order": 5,
+      "source_image": "images/joogid-veinid-olu-shotid.webp",
+      "items": [
+        {
+          "name": "Chardonnay, Coq du Matin, Languedoc, Prantsusmaa",
+          "price": "6.00€ / 24.00€",
+          "description": "",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Pinot Grigio, Cabert, Friuli, Itaalia",
+          "price": "6.00€ / 24.00€",
+          "description": "",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "Albariño Pulpo, Felix Solis, Rias Baixas, Hispaania",
+          "price": "9.00€ / 36.00€",
+          "description": "",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        },
+        {
+          "name": "Riesling, Signature, Wolfberg, Prantsusmaa",
+          "price": "9.00€ / 35.00€",
+          "description": "",
+          "tags": [],
+          "order": 4,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Punased veinid",
+      "slug": "punased-veinid",
+      "source_heading": "PUNASED VEINID",
+      "order": 6,
+      "source_image": "images/joogid-veinid-olu-shotid.webp",
+      "items": [
+        {
+          "name": "Primitivo Di Manduria, Ghenos, Torrevento",
+          "price": "7.00€ / 32.00€",
+          "description": "",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Cabernet Sauvignon, Reserve, Saint Marc, Prantsusmaa",
+          "price": "6.00€ / 24.00€",
+          "description": "",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Vahuveinid",
+      "slug": "vahuveinid",
+      "source_heading": "VAHUVEINID",
+      "order": 7,
+      "source_image": "images/joogid-veinid-olu-shotid.webp",
+      "items": [
+        {
+          "name": "Crémant de Bordeaux, Brut, Maison Castel, Prantsusmaa",
+          "price": "8.50€ / 34.00€",
+          "description": "",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Vallotaj Prosecco DOC, Itaalia",
+          "price": "7.00€ / 28.00€",
+          "description": "",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "White Wine Simply, Saksamaa, alkoholivaba",
+          "price": "5.00€ / 19.00€",
+          "description": "",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Õlu / Siider / Gin",
+      "slug": "olu-siider-gin",
+      "source_heading": "ÕLU / SIIDER / GIN",
+      "order": 8,
+      "source_image": "images/joogid-veinid-olu-shotid.webp",
+      "items": [
+        {
+          "name": "Gin Long drink (Originaalne, ananass)",
+          "price": "3.50€",
+          "description": "",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Hoggys 0.33L",
+          "price": "3.00€",
+          "description": "",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "A. Le Coq Premium 0.5L",
+          "price": "4.50€",
+          "description": "",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        },
+        {
+          "name": "Alexander 0.5L",
+          "price": "4.50€",
+          "description": "",
+          "tags": [],
+          "order": 4,
+          "needs_review": true
+        },
+        {
+          "name": "Corona Extra",
+          "price": "5.00€",
+          "description": "",
+          "tags": [],
+          "order": 5,
+          "needs_review": true
+        },
+        {
+          "name": "Tõmmu Hiid 0.5L",
+          "price": "4.50€",
+          "description": "",
+          "tags": [],
+          "order": 6,
+          "needs_review": true
+        },
+        {
+          "name": "Special 0.5L",
+          "price": "4.50€",
+          "description": "",
+          "tags": [],
+          "order": 7,
+          "needs_review": true
+        },
+        {
+          "name": "Vaadi õlu A. Le Coq Premium 0.5L / 0.33L",
+          "price": "4.50€ / 3.50€",
+          "description": "",
+          "tags": [],
+          "order": 8,
+          "needs_review": true
+        },
+        {
+          "name": "Vaadi õlu Leffe Blonde 0.5L / 0.33L",
+          "price": "7.00€ / 5.00€",
+          "description": "",
+          "tags": [],
+          "order": 9,
+          "needs_review": true
+        },
+        {
+          "name": "Vaadi siider Cider Hoggys Pear 0.5L / 0.33L",
+          "price": "5.00€ / 4.00€",
+          "description": "",
+          "tags": [],
+          "order": 10,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Alkoholivaba",
+      "slug": "alkoholivaba",
+      "source_heading": "ALKOHOLIVABA",
+      "order": 9,
+      "source_image": "images/joogid-veinid-olu-shotid.webp",
+      "items": [
+        {
+          "name": "Premium 0.33L",
+          "price": "3.20€",
+          "description": "",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Warsteiner 0.33L",
+          "price": "3.20€",
+          "description": "",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "Hoggys õuna siider 0.5L",
+          "price": "4.00€",
+          "description": "",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        },
+        {
+          "name": "Gin long drink ananass 0.33L",
+          "price": "3.50€",
+          "description": "",
+          "tags": [],
+          "order": 4,
+          "needs_review": true
+        }
+      ]
+    }
+  ]
+}

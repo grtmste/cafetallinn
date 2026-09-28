@@ -1,0 +1,17 @@
+/*
+Theme Name: Café Tallinn
+Theme URI: https://cafetallinn.ee/
+Author: Café Tallinn
+Author URI: https://cafetallinn.ee/
+Description: Custom classic theme for Café Tallinn (Haapsalu). Editorial layout, menu and drink card in accessible modals, editable menu items, self-hosted fonts and a "Kohviku info" Customizer panel. On activation it creates the pages, menus, media and menu items from the existing site content.
+Version: 1.0.0
+Requires at least: 6.4
+Tested up to: 7.1
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: cafetallinn
+Tags: one-column, custom-logo, custom-menu, featured-images, translation-ready, accessibility-ready
+*/
+
+/* All front-end styles live in assets/css/main.min.css (source: assets/css/src/main.css). */

@@ -1,16 +1,587 @@
 {
-  "_source": "Page \"Menüü\" (id 23) consists ONLY of 9 PNG images. Image files are not in the WXR export and cafetallinn.ee is blocked from this environment, so nothing could be transcribed.",
-  "status": "NOT_TRANSCRIBED",
-  "live_source_images": [
-    "https://cafetallinn.ee/wp-content/uploads/2026/09/1_20260827_132945_0000.png",
-    "https://cafetallinn.ee/wp-content/uploads/2026/09/2_20260827_132945_0001.png",
-    "https://cafetallinn.ee/wp-content/uploads/2026/09/3_20260827_132945_0002.png",
-    "https://cafetallinn.ee/wp-content/uploads/2026/09/4_20260827_132945_0003.png",
-    "https://cafetallinn.ee/wp-content/uploads/2026/09/5_20260827_132945_0004.png",
-    "https://cafetallinn.ee/wp-content/uploads/2026/09/6_20260827_132945_0005.png",
-    "https://cafetallinn.ee/wp-content/uploads/2026/09/7_20260827_132945_0006.png",
-    "https://cafetallinn.ee/wp-content/uploads/2026/09/8_20260827_132945_0007.png",
-    "https://cafetallinn.ee/wp-content/uploads/2026/09/9_20260827_132945_0008.png"
-  ],
-  "categories": []
+  "_source": "Transcribed verbatim from the menuu page images supplied by the client (live page images /wp-content/uploads/2026/09/*_20260827_132945_000N.png). Every entry is needs_review because it was read from an image.",
+  "type": "menuu",
+  "categories": [
+    {
+      "name": "Hommikusöök",
+      "slug": "hommikusook",
+      "source_heading": "HOMMIKUSÖÖK",
+      "order": 1,
+      "source_image": "images/menuu-hommikusook-supid.webp",
+      "items": [
+        {
+          "name": "Kaerehelbepuder",
+          "price": "4.90€",
+          "description": "Koorega keedetud kaerehelbepuder, lisandiks või/marjamoos.",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Inglise hommikusöök",
+          "price": "9.50€",
+          "description": "Kaks praemuna, krõbe peekon (2 viilu), friteeritud krõbedad kartulid ja valged oad tomatikastmes, kõrval kodujuustu ja kurgi salat.",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "Omlett singi ja juustuga",
+          "price": "9.00€",
+          "description": "Rammusa koorega valminud omlett sealihasingi ja juustuga, kõrval värske salat ja majakaste.",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Supid",
+      "slug": "supid",
+      "source_heading": "SUPID",
+      "order": 2,
+      "source_image": "images/menuu-hommikusook-supid.webp",
+      "items": [
+        {
+          "name": "Köögiviljasupp kanalihaga",
+          "price": "7.00€",
+          "description": "Selge leemega karri-köögiviljapuljong kanaliha, kartuli, porgandi, suvikõrvitsa ja porrulauguga.",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Seljanka",
+          "price": "8.00€",
+          "description": "Tummine lihasupp rikkaliku lihavaliku, sibula, hapukurgi ja tomatipastaga. Serveeritud hapukoorega.",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "Koorene lõhesupp kookosega",
+          "price": "10.00€",
+          "description": "Kreemjas lõhesupp kookospiima, toidukoore, köögiviljade, porrulaugu ja suvikõrvitsaga.",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Salatid",
+      "slug": "salatid",
+      "source_heading": "SALATID",
+      "order": 3,
+      "source_image": "images/menuu-salatid-poke.webp",
+      "items": [
+        {
+          "name": "Caesari salat kanaga",
+          "price": "10.50€",
+          "description": "Värske roheline salatisegu, krõbedad saiakuubikud, kirsstomatid, parmesan ja kreemine Caesari kaste mahlase grillitud kanakintsu lihaga.",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Caesari salat tiigerkrevettidega",
+          "price": "12.50€",
+          "description": "Värske roheline salatisegu, krõbedad saiakuubikud, kirsstomatid, parmesan ja kreemine Caesari kaste mahlaste tiigerkrevettidega.",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "Caesari salat lõhega",
+          "price": "12.50€",
+          "description": "Värske roheline salatisegu, krõbedad saiakuubikud, kirsstomatid, parmesan ja kreemine Caesari kaste grilliud lõhega.",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Poke kausid",
+      "slug": "poke-kausid",
+      "source_heading": "POKE KAUSID",
+      "order": 4,
+      "source_image": "images/menuu-salatid-poke.webp",
+      "items": [
+        {
+          "name": "Poke kauss lõhega",
+          "price": "12.50€",
+          "description": "Aasiapäraselt marineeritud toores lõhe riisi, värske kurgi, edamame sojaubade, marineeritud ingveri, marineeritud punase kapsa ja wakame salatiga. Peal kergelt vürtsikas adžikamajonees ja seesamiseemned.",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Poke-kauss tiigerkrevettidega",
+          "price": "12.50€",
+          "description": "Aasiapäraselt marineeritud tiigerkrevetid riisi, värske kurgi, edamame sojaubade, marineeritud ingveri, marineeritud punase kapsa ja wakame salatiga. Peal adžikamajonees ja seesamiseemned.",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "Poke-kauss krõbekanaga",
+          "price": "12.50€",
+          "description": "Krõbedad kanapalad riisi, värske kurgi, edamame sojaubade, marineeritud ingveri, marineeritud punase kapsa ja sibulamoosiga. Peal adžikamajonees ja seesamiseemned.",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Pastad",
+      "slug": "pastad",
+      "source_heading": "PASTAD",
+      "order": 5,
+      "source_image": "images/menuu-pastad-pearoad.webp",
+      "items": [
+        {
+          "name": "Koorene singi-penne pasta",
+          "price": "6.00€ / 8.00€",
+          "description": "Kreemjas penne-pasta mahlase singi ja parmesaniga.",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Koorene suitsukana-pennepasta",
+          "price": "9.00€",
+          "description": "Kreemjas penne-pasta mahlase suitsukana ja parmesaniga.",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "Koorene lõhepasta pennega",
+          "price": "10.00€",
+          "description": "Kreemjas penne-pasta lõhe, porru, suvikõrvitsa ja parmesaniga.",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        },
+        {
+          "name": "Koorene Carbonara",
+          "price": "10.00€",
+          "description": "Linguine peekoni, siidise muna-koorekastme ja parmesaniga.",
+          "tags": [],
+          "order": 4,
+          "needs_review": true
+        },
+        {
+          "name": "Vürtsikas mereannipasta / Spicy Seafood Pasta",
+          "price": "14.00€",
+          "description": "Linguine sinimerekarpide ja hiidkrevettidega vürtsikas valge veini, tomati-koorekaste ja parmesan.",
+          "tags": [],
+          "order": 5,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Pearoad",
+      "slug": "pearoad",
+      "source_heading": "PEAROAD",
+      "order": 6,
+      "source_image": "images/menuu-pastad-pearoad.webp",
+      "items": [
+        {
+          "name": "Cafe Tallinna Šnitsel",
+          "price": "14.00€",
+          "description": "Paneeritud sealiha ananassi, juustu ja BBQ kastmega. Kõrvale friikartulid, virsiku-sinepi kaste, tomat ja rukola.",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Grill-liha Steakhouse kartulitega",
+          "price": "14.00€",
+          "description": "Tsitruse-peterselli marinaadis seakaelakarbonaad, steakhouse kartulite, sibulamoosi, parmesani, krõbesibula, suvikõrvitsa, rukola ja adžikamajoneesiga.",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "Kebab friikartulitega",
+          "price": "11.00€ / 9.00€",
+          "description": "Meie enda valmistatud mahlane sealiha BBQ-kebab krõbedate friikartulite ja värske salatiga. Salat on serveeritud jogurtikastme, tomati ja marineeritud pepperoniga. Kõrvale meie majakaste.",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        },
+        {
+          "name": "Kebab salatiga",
+          "price": "10.00€",
+          "description": "Meie enda valmistatud mahlane sealiha BBQ-kebab värske salati, tomati, marineeritud kurgi ja fetajuustuga. Salat on serveeritud jogurtikastmega ning kõrvale tuleb meie majakaste.",
+          "tags": [],
+          "order": 4,
+          "needs_review": true
+        },
+        {
+          "name": "Lõhesteik salatipadjal",
+          "price": "15.00€",
+          "description": "Ahjus küpsetatud lõhesteik värskel salati padjal, küpsetatud sidruni ja krõbedate kartulisektoritega.",
+          "tags": [],
+          "order": 5,
+          "needs_review": true
+        },
+        {
+          "name": "Sinimerekarbid krevettidega",
+          "price": "15.00€",
+          "description": "Sinimerekarbid ja hiidkrevetid kergelt vürtsikas valge veini, kookospiima ja tomati kastmes. Serveeritud krõbeda ciabattaga.",
+          "tags": [],
+          "order": 6,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Burgerid",
+      "slug": "burgerid",
+      "source_heading": "BURGERID",
+      "order": 7,
+      "source_image": "images/menuu-burgerid-pannkoogid.webp",
+      "items": [
+        {
+          "name": "Väikese burgerisõbra lasteburger",
+          "price": "7.00€",
+          "description": "Mahlane veiselihapihv, cheddari juust, majakaste, ketšup, värske salat, tomat ja hapukurk pehme kukli vahel. Lihtsad ja tuttavad maitsed lastele!",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Krõbekana burger",
+          "price": "12.00€",
+          "description": "Krõbe pankos paneeritud kanakintsuliha, cheddari juustu, värske salati, tomati, marineeritud kurgi, majakastme ja sweet-chilli kastmega.",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "Teriyaki kanaburger",
+          "price": "10.00€",
+          "description": "Grillitud kanakintsuliha magus-soolase teriyaki-kastme, majakastme, parmesani juustu, värske salati, tomati ja marineeritud kurgiga.",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        },
+        {
+          "name": "BBQ Burger",
+          "price": "12.00€",
+          "description": "Mahlane veiselihapihv krõbeda peekoni, cheddari juustuga, BBQ-kastme, värske salati, marineeritud sibula, rukola, tomati, hapukurgi ja majakastmega.",
+          "tags": [],
+          "order": 4,
+          "needs_review": true
+        },
+        {
+          "name": "Grill-liha burger",
+          "price": "13.00€",
+          "description": "Grillitud marineeritud sealiha krõbeda peekoni, sibulamoosi, cheddari juustu, värske salati, tomati, rukola ja majakastmega.",
+          "tags": [],
+          "order": 5,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Lisandid burgeritele",
+      "slug": "lisandid-burgeritele",
+      "source_heading": "Lisandid burgeritele",
+      "order": 8,
+      "source_image": "images/menuu-burgerid-pannkoogid.webp",
+      "items": [
+        {
+          "name": "Friikartulid ja kaste",
+          "price": "2.00€",
+          "description": "",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Bataadifriikad ja kaste",
+          "price": "3.00€",
+          "description": "",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Täidetud pannkoogid",
+      "slug": "taidetud-pannkoogid",
+      "source_heading": "TÄIDETUD PANNKOOGID",
+      "order": 9,
+      "source_image": "images/menuu-burgerid-pannkoogid.webp",
+      "items": [
+        {
+          "name": "Singi-juustu pannkook",
+          "price": "9.00€",
+          "description": "Kuldpruun õhuke pannkook mahlase singi, sibula ja juustuga. Kõrval värske salat ja majakaste.",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "BBQ-kebabi ja juustu pannkook",
+          "price": "9.00€",
+          "description": "Kuldpruun õhuke pannkook kebabiliha, juustu, suitsuse BBQ-kastme ja marineeritud sibulaga. Kõrval värske salat ja majakaste.",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "Suitsukana ja juustu pannkook",
+          "price": "9.00€",
+          "description": "Kuldpruun õhuke pannkook mahlase suitsukana, ananassi ja juustuga. Kõrval värske salat ja majakaste.",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Suupisted",
+      "slug": "suupisted",
+      "source_heading": "SUUPISTED",
+      "order": 10,
+      "source_image": "images/menuu-suupisted.webp",
+      "items": [
+        {
+          "name": "Friikartulid",
+          "price": "5.00€",
+          "description": "Kuldsed ja krõbedad friikartulid, pealt mõnusalt krõbedad ja seest pehmed.",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Bataadifriikartulid",
+          "price": "6.00€",
+          "description": "Kuldsed ja krõbedad bataadifriikartulid, mõnusalt magusa maitse ja pehme sisuga.",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "Friikartulid kanaga",
+          "price": "7.00€",
+          "description": "Krõbedad friikartulid mahlaste kanatükkidega – toekas ja maitsev kõhutäis.",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        },
+        {
+          "name": "Friikartulid viineritega",
+          "price": "6.00€",
+          "description": "Kuldsed friikartulid viineritega – lihtne, klassikaline ja alati maitsev.",
+          "tags": [],
+          "order": 4,
+          "needs_review": true
+        },
+        {
+          "name": "Sibularõngad",
+          "price": "6.00€",
+          "description": "Krõbedas paneeringus kuldsed sibularõngad, vali juurde oma lemmikkaste.",
+          "tags": [],
+          "order": 5,
+          "needs_review": true
+        },
+        {
+          "name": "Sealihapelmeenid",
+          "price": "6.00€",
+          "description": "Friteeritud või keedetud sealihapelmeenid, serveeritud hapukoorega.",
+          "tags": [],
+          "order": 6,
+          "needs_review": true
+        },
+        {
+          "name": "Friteeritud juustuampsud",
+          "price": "8.00€",
+          "description": "Väljast krõbedad ja seest mõnusalt sulanud juustuampsud, vali juurde oma lemmik dipikaste.",
+          "tags": [],
+          "order": 7,
+          "needs_review": true
+        },
+        {
+          "name": "Küüslauguleivad juustudipiga",
+          "price": "6.00€",
+          "description": "Klassikalised krõbedad küüslauguleivad, kõrval rammus juustu-majoneesidipp.",
+          "tags": [],
+          "order": 8,
+          "needs_review": true
+        },
+        {
+          "name": "BBQ kanatiivad",
+          "price": "7.00€",
+          "description": "Mõnusalt mahlased ja vürtsikad kanatiivad, mis on kaetud rikkaliku ning kergelt suitsuse BBQ-kastmega. Serveeritakse sinu lemmik dipikastmega.",
+          "tags": [],
+          "order": 9,
+          "needs_review": true
+        },
+        {
+          "name": "Maja krõbekana",
+          "price": "7.00€",
+          "description": "Sinu tellimuse peale valminud kanakintsuliha ribad paneeritud krõbedas pankos. Vali oma lemmik kaste valikust.",
+          "tags": [],
+          "order": 10,
+          "needs_review": true
+        },
+        {
+          "name": "Friteeritud jalapenod cheddari täidisega",
+          "price": "7.00€",
+          "description": "Krõbedas paneeringus jalapenod, mille pehme ja vürtsika sisu moodustab rikkalik sulatatud Cheddari ja toorjuustu segu. Serveeritakse teie lemmiku dipikastmega. Täiuslik kaaslane külma joogikõrvale!",
+          "tags": [],
+          "order": 11,
+          "needs_review": true
+        },
+        {
+          "name": "Snäkivaagen sõpradele",
+          "price": "25.00€",
+          "description": "Rikkalik ja krõbe suupistevalik seltskonnale jagamiseks. Vaagnalt leiad meie kuldpruuniks friteeritud Cheddari-jalapeno ampsud, kanatiivad, kuldsed sibularõngad, krõbekana, pelmeenid ja juustupallid. Serveeritakse kahe teie valitud dipikastmega.",
+          "tags": [],
+          "order": 12,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Kastmete valik",
+      "slug": "kastmete-valik",
+      "source_heading": "Kastmete valik",
+      "order": 11,
+      "source_image": "images/menuu-suupisted.webp",
+      "items": [
+        {
+          "name": "Majakaste",
+          "price": "",
+          "description": "kergelt vürtsikas ja piprane majoneesi-koorekaste, mis sobib kõigele.",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Virsiku-sinep",
+          "price": "",
+          "description": "põnev ja tasakaalustatud kooslus majoneesist, magusast virsikust ja Dijoni sinepist.",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "Trühvlimajonees",
+          "price": "",
+          "description": "siidine majonees, mille annab luksusliku ja sügava maitse aromaatne trühvel.",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        },
+        {
+          "name": "Adžikamajonees",
+          "price": "",
+          "description": "kergelt vürtsikas ja meeldivalt ürdine kaste teravama elamuse otsijale.",
+          "tags": [],
+          "order": 4,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Lastemenüü",
+      "slug": "lastemenuu",
+      "source_heading": "LASTEMENÜÜ",
+      "order": 12,
+      "source_image": "images/menuu-lastemenuu-magustoidud.webp",
+      "items": [
+        {
+          "name": "Väikese burgerisõbra lasteburger",
+          "price": "7.00€",
+          "description": "Mahlane veiselihapihv, sulatatud cheddari juustu, majakaste, ketšup, värske salat, tomat ja hapukurk pehme kukli vahel.",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Väike koorene singi-penne pasta",
+          "price": "6.00€",
+          "description": "Kreemjas penne-pasta mahlase singi ja riivitud Parmesaniga. Mõnus ja mahe valik väikesele pastasõbrale.",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "Friikartulid viineritega",
+          "price": "6.00€",
+          "description": "Krõbedad kuldsed friikartulid mahlaste viineritega. Kõrvale ketšup.",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        },
+        {
+          "name": "Friikartulid kananagitsatega",
+          "price": "7.00€",
+          "description": "Krõbedad kuldsed friikartulid kananagitsatega. Kõrvale ketšup.",
+          "tags": [],
+          "order": 4,
+          "needs_review": true
+        },
+        {
+          "name": "Friikartulid",
+          "price": "5.00€",
+          "description": "Krõbedad kuldsed friikartulid. Kõrvale ketšup.",
+          "tags": [],
+          "order": 5,
+          "needs_review": true
+        }
+      ]
+    },
+    {
+      "name": "Magustoidud",
+      "slug": "magustoidud",
+      "source_heading": "MAGUSTOIDUD",
+      "order": 13,
+      "source_image": "images/menuu-lastemenuu-magustoidud.webp",
+      "items": [
+        {
+          "name": "Jäätise valik",
+          "price": "1.50€ / Pall",
+          "description": "Jäätisevaliku kohta küsi palun teenindajalt.",
+          "tags": [],
+          "order": 1,
+          "needs_review": true
+        },
+        {
+          "name": "Pannkook moosi ja jäätisega",
+          "price": "6.50€",
+          "description": "Kuldne pannkook moosi ja jäätisega.",
+          "tags": [],
+          "order": 2,
+          "needs_review": true
+        },
+        {
+          "name": "Kuum šokolaadikook jäätisega",
+          "price": "7.00€",
+          "description": "Soe ja rikkalik šokolaadikook, serveeritud jäätisega.",
+          "tags": [],
+          "order": 3,
+          "needs_review": true
+        },
+        {
+          "name": "Vahvlijäätis",
+          "price": "2.50€ / Pall",
+          "description": "Jäätis krõbedas vahvlikoonuses.",
+          "tags": [],
+          "order": 4,
+          "needs_review": true
+        }
+      ]
+    }
+  ]
 }
